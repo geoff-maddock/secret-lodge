@@ -304,7 +304,12 @@ Suspicion cards You can use a power from your secrets deck but it lets other pla
 - Cabal deck contains cards that match each cabal (oh?)
 - Lodge deck contains cards that match each lodge (oh?)
 - Trial deck contains tasks that the player can accomplish to then alter the favored signs or recieve another benefit
-- 
+- Hovels can be place from a collective pool at the cost of two coins
+- Your henchmen can be placed for the cost on your playmat, modified by actors or the state of the favors
+- At the start of an act, you can favor based on each alderman, coin or food based on each trade workshop and influence or actions from each actor
+- Every card has some sigils on it which can be used to build power for a cabal
+- Actor types?
+	- 
 
 
 ## Play Test versions
@@ -324,7 +329,7 @@ c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
 I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
 ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
 JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
-ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbLTc0NDY1MD
-E3NiwtMTQ4NzMyMDUyNSwtNjEyOTY5NzY0LDEwMjg0NjM5N119
+ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbODIxODIzNT
+E2LC0xNDg3MzIwNTI1LC02MTI5Njk3NjQsMTAyODQ2Mzk3XX0=
 
 -->
