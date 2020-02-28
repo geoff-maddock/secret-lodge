@@ -331,8 +331,16 @@ Suspicion cards You can use a power from your secrets deck but it lets other pla
 - Trajan circle mechanic with slots matching occult items with specific requirements.  You are putting actions into those to get them
 - Politicans set demand?  Or the people set demands, and each player can win favor by producing what is in demand (a setting for each card that is revealed each round
 - Two types of story cards - plots and rituals.  Plots require an end of act state, rituals require a sacrifice
-- Political parties?  C
-- 
+- Political parties?  Can be come members or create new ones.  If somebody is winning and they join another's party, they can win overall by boosting their candidate into the lead or assasinating the other candidate
+- Form of government is another layer?  Monarchy, Duarchy, Trinarchy, Council, District Republic
+- Secrets can be gathered and used to bribe aldermen or power your plot, or unfurl another players plot
+- Actors have lodge, cabal and astral signs that effect their power
+They may also both have a specific ability, a physical and astral strength, and a cost?
+Each lodge has things they can build with resources.
+As they build new things, they get something in return, but building more has a cost?
+Comments:
+Geoff Maddock: Candlestick maker +1 candle +1 discard and draw
+Geoff Maddock: Discarding one card into the secrets pile costs one influence
 
 
 ## Play Test versions
@@ -352,7 +360,7 @@ c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
 I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
 ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
 JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
-ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbMTk1NDUyOT
-gwMSwtMTQ4NzMyMDUyNSwtNjEyOTY5NzY0LDEwMjg0NjM5N119
+ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbMTA3MDg1OD
+YzOCwtMTQ4NzMyMDUyNSwtNjEyOTY5NzY0LDEwMjg0NjM5N119
 
 -->
