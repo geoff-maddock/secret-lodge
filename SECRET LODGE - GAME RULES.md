@@ -276,6 +276,18 @@ can claim things from the guild based on your ranking in the guild/lodge?
 
 Resource types: pawns, coin, energy, material, occult, artifact
 
+Lodge (your mat?), Guild (on board location?), Mill (on board production?), Cohort (your active characters in play), Conspiracy (your hand?), Astral Signs (sigils that are associated with different guilds and secret societies)
+
+when you spend the influence of a lodge, if you do something positive, it returns to the pool.  if you do something negative or selfish, it is lost / the lodges favor goes down
+
+Two sided building tokens, one for active o e for shut down
+
+Toughs count for two workers
+
+Secret societies: rod of hermes
+
+
+
  - [ ] Suspicion cards?  You can use a power from your secrets deck but it lets other players unfurl your conspiracy.
 
 
@@ -290,5 +302,5 @@ Resource types: pawns, coin, energy, material, occult, artifact
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODY5MDQ0NCwxMDI4NDYzOTddfQ==
+eyJoaXN0b3J5IjpbLTYxMjk2OTc2NCwxMDI4NDYzOTddfQ==
 -->
