@@ -264,8 +264,17 @@ Draw a task and if you can complete it, you get the reward.  If you can't, you m
 
 Plots: if unleashed it becomes the final turn and a grand battle occurs as every player gets one turn to act and resolve their conspiracy.  Only players with plots can take turns in the grant battle
 
-Use magic, ingots, flesh and wool to build a secret golem or champion for your conspiracy, when activated has vast power and influence and vic
+Use magic, ingots, flesh and wool to build a secret golem or champion for your conspiracy, when activated has vast power and influence and victory points.
 
+Resources: ingots, wool, gold, phlogiston, aether, bread, glass, brick, timber
+
+Your conspiracy/chars can take one of several actions.  Manage work, move pawns, enter politics, build plot, build factory, rally influence, bolster lodge?
+
+certain rituals can change the alignment of the planets to create constellations that are helpful for certain lodges or for certain plots
+
+can claim things from the guild based on your ranking in the guild/lodge?
+
+Resource types: pawns, coin, energy, material, occult, artifact
 
  - [ ] Suspicion cards?  You can use a power from your secrets deck but it lets other players unfurl your conspiracy.
 
@@ -281,5 +290,5 @@ Use magic, ingots, flesh and wool to build a secret golem or champion for your c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTQ1NjczMCwxMDI4NDYzOTddfQ==
+eyJoaXN0b3J5IjpbMTA3ODY5MDQ0NCwxMDI4NDYzOTddfQ==
 -->
