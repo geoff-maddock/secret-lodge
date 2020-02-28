@@ -262,7 +262,10 @@ Tasks are objectives for players.  If they succeed, they improve their standing?
 Or get an item into their secrets deck?   Characters have tasks built in?  Or there is a task?
 Draw a task and if you can complete it, you get the reward.  If you can't, you must spend something to keep it or discard with an energy.
 
-Plots - if unleashed it becomes the final turn and a grand battle occurs as every player gets one turn to act and resolve their conspiracy.  Only players with plots can take turns in the grant battle
+Plots: if unleashed it becomes the final turn and a grand battle occurs as every player gets one turn to act and resolve their conspiracy.  Only players with plots can take turns in the grant battle
+
+Use magic, ingots, flesh and wool to build a secret golem or champion for your conspiracy, when activated has vast power and influence and vic
+
 
  - [ ] Suspicion cards?  You can use a power from your secrets deck but it lets other players unfurl your conspiracy.
 
@@ -278,5 +281,5 @@ Plots - if unleashed it becomes the final turn and a grand battle occurs as ever
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODQ2Mzk3XX0=
+eyJoaXN0b3J5IjpbMTgzNTQ1NjczMCwxMDI4NDYzOTddfQ==
 -->
