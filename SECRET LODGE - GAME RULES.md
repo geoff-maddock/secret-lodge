@@ -328,7 +328,10 @@ Suspicion cards You can use a power from your secrets deck but it lets other pla
 - Technology / science vs occult vs politics / humanism
 - Cards have good son them which give you money, or the goods can be used to pay for things
 - Look up mancala mechanic
-- Trajan circle mech
+- Trajan circle mechanic with slots matching occult items with specific requirements.  You are putting actions into those to get them
+- Politicans set demand?  Or the people set demands, and each player can win favor by producing what is in demand (a setting for each card that is revealed each round
+- Two types of story cards - plots and rituals.  Plots require an end of act state, rituals require a sacrifice
+- Political parties?  C
 - 
 
 
@@ -349,6 +352,7 @@ c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
 I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
 ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
 JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
-ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbNTU5ODYyOC
-wtMTQ4NzMyMDUyNSwtNjEyOTY5NzY0LDEwMjg0NjM5N119
+ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbMTk1NDUyOT
+gwMSwtMTQ4NzMyMDUyNSwtNjEyOTY5NzY0LDEwMjg0NjM5N119
+
 -->
