@@ -290,7 +290,10 @@ Secret societies: rod of hermes
 
 Suspicion cards You can use a power from your secrets deck but it lets other players unfurl your conspiracy.
 
-
+#### Early ideas
+- Lodges are public societes with affiliates to trades and cabals
+- Trades relate to the players and the board
+- Cabals are secret organiza
 
 
 ## Play Test versions
@@ -310,6 +313,7 @@ c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
 I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
 ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
 JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
-ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbLTE0ODczMj
-A1MjUsLTYxMjk2OTc2NCwxMDI4NDYzOTddfQ==
+ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbLTEwNzk3OD
+AyMDksLTE0ODczMjA1MjUsLTYxMjk2OTc2NCwxMDI4NDYzOTdd
+fQ==
 -->
