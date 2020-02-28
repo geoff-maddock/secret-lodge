@@ -309,7 +309,17 @@ Suspicion cards You can use a power from your secrets deck but it lets other pla
 - At the start of an act, you can favor based on each alderman, coin or food based on each trade workshop and influence or actions from each actor
 - Every card has some sigils on it which can be used to build power for a cabal
 - Actor types?
-	- 
+	- Butcher +2 food
+	- Baker +1 food +1 home
+	- Candlestick mater +1 candle
+	- Investigator +1 move
+	- Weaver +1 draw
+	- Mason +1 home
+	- Tough, laborer, investigator, occultist
+	- Hovel, industry, lodge
+- Colors match cabal card and pieces
+- Accrue influence by building or moving into new areas, cards and actions,  Spending influence can change elections and standing of lodge
+- Lodge can spend their standing for various cards like taxation, raids, and assa
 
 
 ## Play Test versions
@@ -329,7 +339,7 @@ c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
 I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
 ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
 JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
-ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbODIxODIzNT
-E2LC0xNDg3MzIwNTI1LC02MTI5Njk3NjQsMTAyODQ2Mzk3XX0=
+ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbMjAzNTAyOD
+k4MCwtMTQ4NzMyMDUyNSwtNjEyOTY5NzY0LDEwMjg0NjM5N119
 
 -->
