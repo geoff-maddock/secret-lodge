@@ -293,7 +293,12 @@ Suspicion cards You can use a power from your secrets deck but it lets other pla
 #### Early ideas
 - Lodges are public societes with affiliates to trades and cabals
 - Trades relate to the players and the board
-- Cabals are secret organiza
+- Cabals are secret organizations of power
+- Token types:  resources, workers, occult
+- Resources are defined by the location on the board and can be collected by workers, lodges, politicans or other card/actions
+- Playing an actors card into your secrets pile allows you to benefit if they come to power, or as a reaction by an opponants investigator
+- You play to advance your lodge by bringing actors into your cabal
+- At
 
 
 ## Play Test versions
@@ -313,7 +318,7 @@ c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
 I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
 ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
 JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
-ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbLTEwNzk3OD
-AyMDksLTE0ODczMjA1MjUsLTYxMjk2OTc2NCwxMDI4NDYzOTdd
+ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbLTE0Mzk5NT
+A1MDMsLTE0ODczMjA1MjUsLTYxMjk2OTc2NCwxMDI4NDYzOTdd
 fQ==
 -->
