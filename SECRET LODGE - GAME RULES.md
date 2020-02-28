@@ -286,7 +286,7 @@ Toughs count for two workers
 
 Secret societies: rod of hermes
 
- - [ ] List item
+ - [ ] Suspicion cards You can use a power from your secrets deck but it lets other players unfurl your conspiracy.
 
 Suspicion cards You can use a power from your secrets deck but it lets other players unfurl your conspiracy.
 
@@ -302,6 +302,14 @@ Suspicion cards You can use a power from your secrets deck but it lets other pla
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc3MzU3NTQsLTYxMjk2OTc2NCwxMD
-I4NDYzOTddfQ==
+eyJkaXNjdXNzaW9ucyI6eyJ1b1VnVW5hVEtXbENHOXlDIjp7In
+N0YXJ0IjoxMzkzOCwiZW5kIjoxNDAwMCwidGV4dCI6Ikxpc3Qg
+aXRlbSJ9fSwiY29tbWVudHMiOnsiZEw1VXhRTEExV2hyMlFkTC
+I6eyJkaXNjdXNzaW9uSWQiOiJ1b1VnVW5hVEtXbENHOXlDIiwi
+c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
+I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
+ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
+JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
+ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbLTE0ODczMj
+A1MjUsLTYxMjk2OTc2NCwxMDI4NDYzOTddfQ==
 -->
