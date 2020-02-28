@@ -298,7 +298,13 @@ Suspicion cards You can use a power from your secrets deck but it lets other pla
 - Resources are defined by the location on the board and can be collected by workers, lodges, politicans or other card/actions
 - Playing an actors card into your secrets pile allows you to benefit if they come to power, or as a reaction by an opponants investigator
 - You play to advance your lodge by bringing actors into your cabal
-- At
+- At the end of each act/season (6 total) there is an election of aldermen for each district
+- Each player has tokens or cards it can use to influence an election or other players votes
+- Play deck contains actors and items
+- Cabal deck contains cards that match each cabal (oh?)
+- Lodge deck contains cards that match each lodge (oh?)
+- Trial deck contains tasks that the player can accomplish to then alter the favored signs or recieve another benefit
+- 
 
 
 ## Play Test versions
@@ -318,7 +324,7 @@ c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
 I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
 ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
 JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
-ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbLTE0Mzk5NT
-A1MDMsLTE0ODczMjA1MjUsLTYxMjk2OTc2NCwxMDI4NDYzOTdd
-fQ==
+ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbLTc0NDY1MD
+E3NiwtMTQ4NzMyMDUyNSwtNjEyOTY5NzY0LDEwMjg0NjM5N119
+
 -->
