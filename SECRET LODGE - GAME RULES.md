@@ -319,7 +319,12 @@ Suspicion cards You can use a power from your secrets deck but it lets other pla
 	- Hovel, industry, lodge
 - Colors match cabal card and pieces
 - Accrue influence by building or moving into new areas, cards and actions,  Spending influence can change elections and standing of lodge
-- Lodge can spend their standing for various cards like taxation, raids, and assa
+- Lodge can spend their standing for various cards like taxation, raids, and assasinations
+- Cards put into play, either items or people can be brought into your cabal and based on what people buy, you may deduce their conspiracy
+- Cubes for differente types of workers
+- There's an occult phase of each roud where you can use your occult powers to align the planets and sigils to benefit your next turn.  6 planets, 6 sigils
+- Game board - circle of sigils.  Along those lines each lodge and player has a position.  O
+- 
 
 
 ## Play Test versions
@@ -339,7 +344,7 @@ c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
 I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
 ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
 JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
-ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbMjAzNTAyOD
-k4MCwtMTQ4NzMyMDUyNSwtNjEyOTY5NzY0LDEwMjg0NjM5N119
+ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbNzU5MTgzOD
+U3LC0xNDg3MzIwNTI1LC02MTI5Njk3NjQsMTAyODQ2Mzk3XX0=
 
 -->
