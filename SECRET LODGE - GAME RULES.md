@@ -172,12 +172,13 @@ The astral signs move on to the next season.
 
 ## APPENDIX
 
-### Guilds
-Butchers
+### Guilds / Trades
+Butchers (food
 Bakers
 Masons
 Iron Workers
 Chemists
+Alchemists
  
 ### Lodge Names
 Elk
@@ -353,13 +354,13 @@ Geoff Maddock: Discarding one card into the secrets pile costs one influence
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJ1b1VnVW5hVEtXbENHOXlDIjp7In
-N0YXJ0IjoxMzkzOCwiZW5kIjoxNDAwMCwidGV4dCI6Ikxpc3Qg
+N0YXJ0IjoxMzk2NCwiZW5kIjoxNDAyNiwidGV4dCI6Ikxpc3Qg
 aXRlbSJ9fSwiY29tbWVudHMiOnsiZEw1VXhRTEExV2hyMlFkTC
 I6eyJkaXNjdXNzaW9uSWQiOiJ1b1VnVW5hVEtXbENHOXlDIiwi
 c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
 I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
 ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
 JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
-ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbMTA3MDg1OD
-YzOF19
+ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbLTg0NTUxMj
+A3NCwxMDcwODU4NjM4XX0=
 -->
