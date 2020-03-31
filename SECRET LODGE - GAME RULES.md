@@ -40,6 +40,9 @@ Secrets - a face down set of cards placed in the secrets pile of their lodge
 #### City Board
 The city board is where real-world action occurs in the game, and represents the the fictional steam-era "London" that is the game's setting.   The city is made up of **five different districts**: *North, East, South, West* and *Central*, and each contains **six hex-shaped neighborhoods** that in turn contain **six triangular spaces**.   Each district has a space for the currently elected **alderman**.  They set some rules for that district while the remain elected..  Around the outside of the city is the **power track** that keeps track of the points awarded to each lodge.   Each player has a pawn on the power track, basically "points" earned for different actions of power. In the final hour, the secret societies do battle and many more points can be scored.
 
+How will locations / empty space play into the game?
+Building near the city center is more expensive, but trading goods for coin is more profitable.    Building near your own places improves your influence - being the dominant lodge in a district gives you victory points.   Building apart allows you to effect more districts.   Building near an opponent allows them easier access to your secrets.   There are also six unique locations that can be added to the game based on cards?    Chapel, Brothel, Speak Easy, Morgue, Dungeon,  Constable
+
 #### Astral Track?
 A depiction of each of the astral symbols and their state of favor or disfavor/alignment?
 Work in progress, as this may be simpler or more complex.
@@ -354,13 +357,13 @@ Geoff Maddock: Discarding one card into the secrets pile costs one influence
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJ1b1VnVW5hVEtXbENHOXlDIjp7In
-N0YXJ0IjoxMzk2NCwiZW5kIjoxNDAyNiwidGV4dCI6Ikxpc3Qg
-aXRlbSJ9fSwiY29tbWVudHMiOnsiZEw1VXhRTEExV2hyMlFkTC
+RleHQiOiJMaXN0IGl0ZW0iLCJzdGFydCI6MTQ1MDcsImVuZCI6
+MTQ1Njl9fSwiY29tbWVudHMiOnsiZEw1VXhRTEExV2hyMlFkTC
 I6eyJkaXNjdXNzaW9uSWQiOiJ1b1VnVW5hVEtXbENHOXlDIiwi
 c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
 I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
 ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
 JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
-ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbLTg0NTUxMj
-A3NCwxMDcwODU4NjM4XX0=
+ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbLTU3NDc5NT
+Y3OCwtODQ1NTEyMDc0LDEwNzA4NTg2MzhdfQ==
 -->
