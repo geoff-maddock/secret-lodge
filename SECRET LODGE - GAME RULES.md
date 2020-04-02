@@ -281,7 +281,11 @@ can claim things from the guild based on your ranking in the guild/lodge?
 **Resource types**
 pawns
 coin
-energy, material, occult, artifact
+energy
+material
+occult
+artifact
+food
 
 Lodge (your mat?), Guild (on board location?), Mill (on board production?), Cohort (your active characters in play), Conspiracy (your hand?), Astral Signs (sigils that are associated with different guilds and secret societies)
 
@@ -360,14 +364,14 @@ Geoff Maddock: Discarding one card into the secrets pile costs one influence
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJ1b1VnVW5hVEtXbENHOXlDIjp7In
-RleHQiOiJMaXN0IGl0ZW0iLCJzdGFydCI6MTQ1MDgsImVuZCI6
-MTQ1NzB9fSwiY29tbWVudHMiOnsiZEw1VXhRTEExV2hyMlFkTC
+RleHQiOiJMaXN0IGl0ZW0iLCJzdGFydCI6MTQ1MTAsImVuZCI6
+MTQ1NzJ9fSwiY29tbWVudHMiOnsiZEw1VXhRTEExV2hyMlFkTC
 I6eyJkaXNjdXNzaW9uSWQiOiJ1b1VnVW5hVEtXbENHOXlDIiwi
 c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
 I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
 ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
 JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
-ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbNzc0ODA1MD
-k3LC01NzQ3OTU2NzgsLTg0NTUxMjA3NCwxMDcwODU4NjM4XX0=
+ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbMTgwMTMyNz
+I4LC01NzQ3OTU2NzgsLTg0NTUxMjA3NCwxMDcwODU4NjM4XX0=
 
 -->
