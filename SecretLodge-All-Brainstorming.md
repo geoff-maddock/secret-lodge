@@ -1,6 +1,6 @@
 # SECRET LODGE 
 ## GAME RULES
-v.0.1.20 - BETA
+v.0.1.21 - ALPHA
 
 ## STORY
 High espionage, industrial fantasy and occult intrigue in a tumultuous "steam era" London.   Each lodge competes to gain power amongst exploding and competitive industry - but all is not as its seems!  Behind each lodge is an even more insidious secret society, attempting to unleash their plot and rise to power and infamy!
@@ -10,7 +10,7 @@ Each lodge will use its actors and pawns to gain resources and power in order to
 
 ## BASICS
 - 2-6 players
-- 60 - 120 mins
+- 60 - 120 mins (no reference)
 - takes place over 6+ rounds
 - each round has phases where 
   - elections - new aldermen are elected for each district
@@ -20,7 +20,7 @@ Each lodge will use its actors and pawns to gain resources and power in order to
 - after the final hour, final points are scored and the most powerful lodge standing wins
 
 ## GAME TERMS
-Season / Round - the largest grouping of game actions, each season consists of  three phases
+Season / Round - the largest grouping of game actions, each season consists of three phases
 Phase - one of the three phases of each season that mark different sets of actions for players
 Turn - a player action taken during a phase.  after they take one legal action play continues clockwise unless otherwise specified 
 Action - any of the legal actions available to a player on their turn, either through cards they have in their cadre, hand, pawns and payed for via resources in their vault.
@@ -40,7 +40,7 @@ Secrets - a face down set of cards placed in the secrets pile of their lodge
 #### City Board
 The city board is where real-world action occurs in the game, and represents the the fictional steam-era "London" that is the game's setting.   The city is made up of **five different districts**: *North, East, South, West* and *Central*, and each contains **six hex-shaped neighborhoods** that in turn contain **six triangular spaces**.   Each district has a space for the currently elected **alderman**.  They set some rules for that district while the remain elected..  Around the outside of the city is the **power track** that keeps track of the points awarded to each lodge.   Each player has a pawn on the power track, basically "points" earned for different actions of power. In the final hour, the secret societies do battle and many more points can be scored.
 
-How will locations / empty space play into the game?
+##### How will locations / empty space play into the game? #####
 Building near the city center is more expensive, but trading goods for coin is more profitable.    Building near your own places improves your influence - being the dominant lodge in a district gives you victory points.   Building apart allows you to effect more districts.   Building near an opponent allows them easier access to your secrets.   There are also six unique locations that can be added to the game based on cards?    Chapel, Brothel, Speak Easy, Morgue, Dungeon,  Constable
 
 #### Astral Track?
@@ -355,8 +355,30 @@ Geoff Maddock: Discarding one card into the secrets pile costs one influence
 
 
 ## Play Test versions
-1.0
+0.1.21 - ALPHA - Working rules set
+1.0 - First Playtest Rules set
 
+## To Do
+- Clean up brainstorming
+  - Core - elements that will be in the game
+  - Likely - elements that likely will be in the game
+  - Variable - elements that may be taken in or out or tweaked
+  - Ideas - elements that don't have a solid form
+- Write up resources
+  - Complete ruleset and Q&A - includes details of all rules as well as answers to specific questions
+  - Quick start - brief rules and concise instructions on how to set up and start play
+  - At a glance - pictographic card summary of the way turns go and the most basic rules systems at a glance
+  - Iconography - glossary of short hands used on the boards, cards and pieces
+  - Parts list - complete list of all parts
+- Playtests
+  - Write up each rules version variation
+  - Take notes during play on
+	- How easy rules are understood
+	- What systems work or don't work
+	- What questions were asked - did they have an answer
+	- How fun was it?
+	- Other feedback from users
+  - Write a post mortum summary and make notes on what rules worked or didn't and alternatives
 
 ## Resources
 [https://www.gamestructor.com/Boards](https://www.gamestructor.com/Boards)
