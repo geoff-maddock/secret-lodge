@@ -21,6 +21,9 @@ Each lodge will use its actors and pawns to gain resources and power in order to
 
 ## GAME TERMS
 Season / Round - the largest grouping of game actions, each season consists of three phases
+	Production
+	Mechination
+	Resolution
 Phase - one of the three phases of each season that mark different sets of actions for players
 Turn - a player action taken during a phase.  after they take one legal action play continues clockwise unless otherwise specified 
 Action - any of the legal actions available to a player on their turn, either through cards they have in their cadre, hand, pawns and payed for via resources in their vault.
