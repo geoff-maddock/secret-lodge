@@ -52,7 +52,7 @@ They change with each season?
 Different cards, lodges and secret societies gain extra benefit based on these
 Occultists can influence these through actions?
 
-#### Lodge / Guild board
+#### Lodge / Guild board [ALT]
 This is an alternative idea where the lodges are seperate from players, and players are conspiracies that are using/manipulating lodges and guilds.  The actors each player have determine how they can work within each lodge or guild.
 This board/track shows the relative favor or disfavor of each lodge, plus number of free workers in each, shows the current head of each lodge,  other resources?
 
@@ -60,18 +60,18 @@ This board/track shows the relative favor or disfavor of each lodge, plus number
 This board is where an individual player controls the inner workings of their secret lodge.
 The lodge board has several special spaces, and other than the lodge name, everything can be configured about the set-up for each lodge
 ##### Grand Master
-Any actor can be placed as the grand master of your lodge, and their attributes are considered the attributes of your lodge
+Any actor can be placed as the grand master of your lodge, and their attributes are considered the attributes of your lodge.  The grand master can be protected by toughs or occultists, and can be leveled up in order to gain power and enact the plot.
 ##### Plot 
-This is a pair of cards, played at the beginning of the game and is played face down in it's own space.  One card describes your secret society, their associations (which may be visible), and the other is your plot.  It has specific slots visible on the back that must be filled with resources, but the exact number and type are only known to the player.  
+This is a pair of cards, played at the beginning of the game and is played face down in it's own space.  One card describes your secret society, their associations (which may be visible), and the other is your plot.  It has specific slots visible on the back that must be filled with resources, but the exact number and type are only known to the player.  [ALT] The plot is a single card held in your hand and has a high specific cost to play.   The conspiracy card is your secret society behind your lodge and describes some additional scoring that happens based on the secrets you have as well as other elements in your lodge when your final plot is revealed.
 ##### Power levels
 These are sliders or pools on your board or possibly on your secret society card.  Not sure if this may work better like this or as resources.  Possible powers:  
-Influence (behind the scenes), Occult (magic power), Popularity (public)
+Influence (behind the scenes), Occult (magic power), Popularity (public support).  These change based on actors in your lodge, your grand master, and elected aldermen
 ##### Insignia
-This is the symbol for your lodge / type of pawn you have?
+This is the symbol for your lodge / type of pawn you have?  Each has an animal and a color.
 ##### Vault
-This is where the players current resources are stored and can be spent from
+This is where the players current resources are stored and can be spent from.  Not sure if this will just be the general supply for the player, or things must be put here specifically to be used in secret plots.
 ##### Secrets
-This is a face down pile of cards that represent the secrets of the lodge.  In order to play certain cards you may have to add to the secrets pile.  Other players can investigate your secrets to unveil your plot.  These cards can be used as instants and in the final hour.
+This is a face down pile of cards that represent the secrets of the lodge.  In order to play certain cards you may have to add to the secrets pile.  Other players can investigate your secrets to unveil your plot.  These cards can be used to score power and victory in the final horu.
 ##### Pawns and Buildings
 Each lodge has potential pawns and buildings they can raise under their control.   Once they are in play, they will grant the player power, income or resources, but they will cost resources or workers to put into play.
 	
@@ -92,18 +92,26 @@ Hired muscle that can be used to disrupt work or take out opponents.
 ##### Investigator
 Deft inspectors who can unearth secrets of your opponents.
 ##### Occultist
-Mystics who use occult methods to enact favor for the lodge and their plots.
+Mystics who use occult methods to enact favor for the lodge and their plots.   
 ##### Peasants 
-People on the board that can be hired for any task
+People on the board that can be hired for any task [ALT] No Peasants
+##### [ALT] Generic Pawns
+All pawns are the same for a lodge, they just cost differently and act differently based on where they are placed on the board.
 
 #### Resources
-These are pieces that are collected from a "bank" and stored in a Lodge vault, or sometimes on board locations or installed into a plot.  They are pieces of plastic, wood or cardboard that represent resources that can be used or spent.
-##### coin
-##### bread
-##### ingots
-##### timber
-##### ether
-##### phlogiston
+These are pieces that are collected from a "bank" and stored in a Lodge vault, or sometimes on board locations or installed into a plot.  They are pieces of plastic, wood or cardboard that represent resources that can be used or spent.  Resources are used to build buildings, trade for coin, hire pawns, recruit actors, gain victory points, and enact your conspiracies plot.
+##### Coin
+Gained by workers traveling to the market space in the board's center and trading resources.
+##### Bread [ALT] Food
+Produced on farm spaces by placing a worker on the space.  An additional bread is produced for each worker on the space, and for every actor with a baker trait.
+##### Ingots
+Produced on factory spaces by placing a worker on the space.  An additonal ingot is produced for each worker on the space, and for every actor with a smith trait.
+##### Timber
+Produced on forrest spaces by placing a worker on the space.  An additional timber is produced for each worker on the space and for every actor with a lumber trait.
+##### Ether
+Produced on a lyceaum space by placing a worker on the space.  Additional ether is produced for each worker on the space and for every actor with an occult trait.
+##### Phlogiston
+Produced on a chemist space by placing a worker on the space.  Additional phlogiston is produced for each worker on the space and for every actor with a chemist trait.
 
 #### Cards
 The deck of cards represent the cast of potential characters, items and plots points that can become part of your conspiracy.  
@@ -279,8 +287,8 @@ certain rituals can change the alignment of the planets to create constellations
 can claim things from the guild based on your ranking in the guild/lodge?
 
 **Resource types**
-pawns
-coin
+Pawns - represent small people and can be placed on the lodge board, city board or actor cards
+Coin - represents wealth
 energy
 material
 occult
@@ -301,7 +309,7 @@ Secret societies: rod of hermes
 
 Suspicion cards You can use a power from your secrets deck but it lets other players unfurl your conspiracy.
 
-#### Early ideas
+#### Brainstorming & Early ideas
 - Lodges are public societes with affiliates to trades and cabals
 - Trades relate to the players and the board
 - Cabals are secret organizations of power
