@@ -141,24 +141,24 @@ Produce new resource with workers
 ## RULES & SYSTEMS
 
 ### How to set up the game?
-Open up the game board and place it in the center of the table.
-Each player selects a lodge mat.   This represents their lodge.
-Each player selects a secret society card, and a plot card.  These can be read by the player, but should be placed face down on their lodge.
-Each player draws a hand of five cards.  These are potential members of your lodge.
-Fill all of the base slots on your lodge mat with locations and pawns.
-Place five actors from the deck face up, as candidates for alderman, and place one in each district.
-Each player gets the base resources listed on their lodge mat.
+- Open up the game board and place it in the center of the table.
+- Each player selects a lodge mat.   This represents their lodge.
+- Each player selects a secret society card, and a plot card.  These can be read by the player, but should be placed face down on their lodge.
+- Each player draws a hand of five cards.  These are potential members of your lodge.
+- Fill all of the base slots on your lodge mat with locations and pawns.
+- Place five actors from the deck face up, as candidates for alderman, and place one in each district.
+- Each player gets the base resources listed on their lodge mat.
 
 ### Who goes first?
 You can randomly choose who goes first, but without any other method - pick the last person who has smoked a pipe.
 
 ### What happens in each round?
 Each round is divided into three phases.
-**Consolidation** 
+**Consolidation (Income)** 
 Earn any income, resources or energy based on conspiracy.  This happens all at once.
-**Actions**
+**Mechanaztion (Actions)**
 Each player takes one action in order around the table until they choose to no longer take an action, or they are unable to take an action.
-**Seasons End**
+**Resolution (Season's End)**
 Each district has a newly elected aldarman
 The astral signs move on to the next season.
 
