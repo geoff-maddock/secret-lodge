@@ -1,6 +1,7 @@
 # SECRET LODGE 
 ## GAME RULES
 v.0.1.21 - ALPHA
+This is all the notes and brainstorming for the game including ideas that have been tested or abandoned and why.
 
 ## STORY
 High espionage, industrial fantasy and occult intrigue in a tumultuous "steam era" London.   Each lodge competes to gain power amongst exploding and competitive industry - but all is not as its seems!  Behind each lodge is an even more insidious secret society, attempting to unleash their plot and rise to power and infamy!
@@ -12,7 +13,7 @@ Each lodge will use its actors and pawns to gain resources and power in order to
 - 2-6 players
 - 60 - 120 mins (no reference)
 - takes place over 6+ rounds
-- each round has phases where 
+- each round has phases 
   - elections - new aldermen are elected for each district
   - income - income is awarded based on the state of your lodge
   - the chase - players take actions round robin until all players have passed
@@ -160,7 +161,7 @@ Earn any income, resources or energy based on conspiracy.  This happens all at o
 Each player takes one action in order around the table until they choose to no longer take an action, or they are unable to take an action.
 **Resolution (Season's End)**
 Each district has a newly elected aldarman
-The astral signs move on to the next season.
+The astral signs move on to the next seaso
 
 ### How does the game end?
 
@@ -237,6 +238,19 @@ Material
 Energy
 Influence
 Coin
+
+### Locations
+Museum
+Chapel
+Stables
+Constable
+Tavern
+Candlemaker
+Speakeasy
+Brothel
+Dungeon
+Blackmarket
+
 
 ### Pawns
 Are these BY lodge/color?
