@@ -1,26 +1,32 @@
 # SECRET LODGE 
+
 ## GAME RULES
-v.0.1.20 - BETA
+v.0.4.20 - DEVELOP
+This is the current detailed set of rules being used to playtest.
 
 ## STORY
-High espionage, industrial fantasy and occult intrigue in a tumultuous "steam era" London.   Each lodge competes to gain power amongst exploding and competitive industry - but all is not as its seems!  Behind each lodge is an even more insidious secret society, attempting to unleash their plot and rise to power and infamy!
+High espionage, industrial fantasy and occult intrigue in a tumultuous "steam era" London.   Each lodge competes to gain power amongst exploding and competitive industry - but all is not as its seems!  Behind each lodge is an even more insidious secret society, attempting to unleash their plot and rise to power and infamy.
  
 ## OBJECTIVE
-Each lodge will use its actors and pawns to gain resources and power in order to become the most powerful lodge.  There are a few paths to power:  A) by producing the most and highest quality goods while disrupting the work of other lodges, B) by increasing the influence of your lodge and impugning competing lodges by election, might or the occult, C) unfurling the secret plots of other lodges or D) unleashing your plot and gaining the most power via your diabolical methods!   The game ends when a plot is unleashed, a single lodge controls all workshops, or is elected into power in each district.
+Each lodge will use its actors and pawns to gain resources and power in order to become the most powerful lodge in mythic-victorian London.  There are a few paths to power:  A) by producing the most and highest quality goods while disrupting the work of other lodges, B) by increasing the influence of your lodge and impugning competing lodges by election, might or the occult, C) unfurling the secret plots of other lodges or D) unleashing your plot and gaining the most power via your diabolical methods!   The game ends when a plot is unleashed, a single lodge controls all workshops, or is elected into power in each district.
 
 ## BASICS
 - 2-6 players
-- 60 - 120 mins
-- takes place over 6+ rounds
-- each round has phases where 
+- 60 - 120 mins (no reference)
+- setup involves each player taking a lodge board and following the setup on that board, drawing their starting hand and selecting starting aldermen for each district
+- play takes place over 6+ seasons
+- each season has phases
   - elections - new aldermen are elected for each district
   - income - income is awarded based on the state of your lodge
   - the chase - players take actions round robin until all players have passed
   - the final hour - once a plot is unleashed, a special final phase takes place
-- after the final hour, final points are scored and the most powerful lodge standing wins
+- after the final hour, final power is total and the most powerful lodge standing wins
 
 ## GAME TERMS
-Season / Round - the largest grouping of game actions, each season consists of  three phases
+Season / Round - the largest grouping of game actions, each season consists of three phases
+	Production - earn based on starting state of your lodge
+	Mechination - take actions with cards, actors and pawns
+	Resolution - unfurl plots, return workers, elect aldermen
 Phase - one of the three phases of each season that mark different sets of actions for players
 Turn - a player action taken during a phase.  after they take one legal action play continues clockwise unless otherwise specified 
 Action - any of the legal actions available to a player on their turn, either through cards they have in their cadre, hand, pawns and payed for via resources in their vault.
@@ -28,7 +34,7 @@ Lodge - each player's set of cards, board and pieces
 Resources - one of the types of resources used in the game to pay for actions
 Vault - resources that have been earned and are stored on a player board
 Hand - the cards that are held secretly in the players hand
-Cadre - the players cards that are laid out in front of them that may take actions
+Conspiracy - the players cards that are laid out in front of them that may take actions
 Actors - any of a players specific cards that represent a person
 Pawn - any of the small movable parts of the game that are not cards
 Secrets - a face down set of cards placed in the secrets pile of their lodge
@@ -38,45 +44,60 @@ Secrets - a face down set of cards placed in the secrets pile of their lodge
 ### BOARDS & LOCATIONS
 
 #### City Board
-The city board is where real-world action occurs in the game, and represents the the fictional steam-era "London" that is the game's setting.   The city is made up of **five different districts**: *North, East, South, West* and *Central*, and each contains **six hex-shaped neighborhoods** that in turn contain **six triangular spaces**.   Each district has a space for the currently elected **alderman**.  They set some rules for that district while the remain elected..  Around the outside of the city is the **power track** that keeps track of the points awarded to each lodge.   Each player has a pawn on the power track, basically "points" earned for different actions of power. In the final hour, the secret societies do battle and many more points can be scored.
+The city board is where real-world action occurs in the game, and represents the the fictional steam-era "London" that is the game's setting.   The city is made up of **five different districts**: *North, East, South, West* and *Central*, and each contains **four borroughs** that in turn contain **seven hexagonal spaces**.   Each district has a space for the currently elected **alderman**.  They set some rules for that district while the remain elected.  Around the outside of the city is the **power track** that keeps track of the overall power of each lodge in the city.  Each lodge has a pawn on the power track (basically "victory points" earned for different actions that increase the lodge's power). In the final hour, the secret societies clash, unleash their secret plots and only one is left standing.
 
-How will locations / empty space play into the game?
-Building near the city center is more expensive, but trading goods for coin is more profitable.    Building near your own places improves your influence - being the dominant lodge in a district gives you victory points.   Building apart allows you to effect more districts.   Building near an opponent allows them easier access to your secrets.   There are also six unique locations that can be added to the game based on cards?    Chapel, Brothel, Speak Easy, Morgue, Dungeon,  Constable
+##### How will locations / empty space play into the game? #####
+Building near the city center is more expensive, but trading goods for coin is more profitable.    Building near your own places improves your influence - being the dominant lodge in a district gives you victory points.   Building apart allows you to effect more districts.   Building near an opponent allows them easier access to your secrets.   There are also ten (10) unique locations that can be added to the game based on cards that have their own related actions.    Museum, Chapel, Stables, Constable, Tavern, Morgue, Speakeasy, Brothel, Dungeon, Blackmarket.
 
-#### Astral Track?
-A depiction of each of the astral symbols and their state of favor or disfavor/alignment?
-Work in progress, as this may be simpler or more complex.
-Tokens or pointers on this represents the current astral signs in favor
-One of eight signs are either in favor, disfavor or neutral
-They change with each season?
-Different cards, lodges and secret societies gain extra benefit based on these
-Occultists can influence these through actions?
+#### Astral Track
+A circular depiction of each of the astral sigils and their state of favor or disfavor/alignment.
+The thee spirits indicate the current astral alignment and they move forward one or more positions per season.
+The white, black and red tokens indicate the sigils in favor.
+Each lodge can perform rituals to increase their energy in any of the sigils.
 
-#### Lodge / Guild board
-This is an alternative idea where the lodges are seperate from players, and players are conspiracies that are using/manipulating lodges and guilds.  The actors each player have determine how they can work within each lodge or guild.
+[Ideas]
+- "Spirit" Tokens or pointers on this represent the current astral signs in favor [Y]
+- One of eight signs are either in favor, disfavor or neutral [Maybe]
+- They change with each season? [Y]
+- Different cards, lodges and secret societies gain extra benefit based on these [Y]
+- Occultists can influence these through actions [Y]
+
+#### Guild boards 
+[Idea]
+Each guild / trade has it's own board on the play area, as well as "factory" spaces on the play board.   
+Players pay to place their workers in the factory to earn resources, which are added to their lodge boards.  The cost to add depends on how many workers are available,
+the current favor of your lodge with the guild, and the access of your guild master.
+The actors each player have determine how they can work within each lodge or guild.
 This board/track shows the relative favor or disfavor of each lodge, plus number of free workers in each, shows the current head of each lodge,  other resources?
+Lodges can build new factories to improve their standing, or spend secrets to place workers even if they are in bad favor with the lodge.
+
 
 #### Player Board / Lodge Board
 This board is where an individual player controls the inner workings of their secret lodge.
 The lodge board has several special spaces, and other than the lodge name, everything can be configured about the set-up for each lodge
+
 ##### Grand Master
-Any actor can be placed as the grand master of your lodge, and their attributes are considered the attributes of your lodge
+Any actor can be placed as the grand master of your lodge, and their attributes are considered the attributes of your lodge.  The grand master can be protected by toughs or occultists, and can be leveled up in order to gain power and enact the plot.
+
 ##### Plot 
-This is a pair of cards, played at the beginning of the game and is played face down in it's own space.  One card describes your secret society, their associations (which may be visible), and the other is your plot.  It has specific slots visible on the back that must be filled with resources, but the exact number and type are only known to the player.  
-##### Power levels
-These are sliders or pools on your board or possibly on your secret society card.  Not sure if this may work better like this or as resources.  Possible powers:  
-Influence (behind the scenes), Occult (magic power), Popularity (public)
+This is a pair of cards, played at the beginning of the game and is played face down in front of the player.  One card describes your secret society, their associations (which may be visible), and the other is your plot.  It has specific slots visible on the back that must be filled with resources, but the exact number and type are only known to the player.  These determine some rules for scoring power at the end of the game.  They can be looked at at any time by the player holding them.  They can be revealed by other player's investigators if the secrets pile is empty.
+
+[ALT] The plot is a single card held in your hand and has a high specific cost to play.   The conspiracy card is your secret society behind your lodge and describes some additional scoring that happens based on the secrets you have as well as other elements in your lodge when your final plot is revealed.
+
+##### Secret Society Rank
+This is the level within the secret society that your grand master has attained.  It can be increased by paying the cost.  [1 influence or 2 coins and one energy]
+All secret plots require a certain rank.  The higher your rank, the more immune to investigation and assasination your grant master will be.  Each rank is an additional save.
 ##### Insignia
-This is the symbol for your lodge / type of pawn you have?
+This is the symbol for your lodge.  Each has an animal and a color.
 ##### Vault
-This is where the players current resources are stored and can be spent from
+This is where the players current resources are stored and can be spent from, a location in front of their play area.
 ##### Secrets
-This is a face down pile of cards that represent the secrets of the lodge.  In order to play certain cards you may have to add to the secrets pile.  Other players can investigate your secrets to unveil your plot.  These cards can be used as instants and in the final hour.
+This is a face down pile of cards that represent the secrets of the lodge.  In order to play certain cards you may have to add to the secrets pile.  Other players can investigate your secrets to unveil your plot, secret society, and dispatch actors.   Some secrets can be removed from the pile and played.  These cards can be used to score power and victory in the final hour.  
 ##### Pawns and Buildings
-Each lodge has potential pawns and buildings they can raise under their control.   Once they are in play, they will grant the player power, income or resources, but they will cost resources or workers to put into play.
+Each lodge has potential pawns and buildings they can raise under their control.   Once they are in play, they will grant the player power, income or resources, but they will cost resources or workers to put into play.  There is also a cost to keeping a pawn on a building in order to continue to occupy it.   
 	
-#### Conspiracy
-Your hand of cards.  These can be played during the action phase if you can pay their cost and you have at least one lodge hall per actor in play.
+#### Hand
+Your hand of cards.  These can be played during the action phase if you can pay their cost.
 
 #### Cadre
 The actors played face up in front of you.  These are powerful members of your lodge and of society.  They have abilities that can be used by your lodge, and you can also attempt to get them elected as aldermen of a district
@@ -84,84 +105,183 @@ The actors played face up in front of you.  These are powerful members of your l
 ### Pieces	
 
 #### Pawns
-These are pieces that can be moved around the board, and from the player board onto the city board.  All pawns can be involved in plots and elections.   Each pawn has specific places it can be used in order to cause an effect or use it's special power.
+These are pieces that can be moved around the board, and from the player board onto the city board.  All pawns can be involved in plots and elections.   Each pawn has specific places it can be used in order to cause an effect or use it's special power.  Pay the cost of the pawn to add it to play.
 ##### Worker
-Craftsmen that can be put to work to create resources.
+Craftsmen that can be put to work to create resources - Food, Material, Energy which can be traded for Coins
+Cost to put into play [1 Food]
+- Place on an open space to earn one food or one material
+- Place on a factory space to earn additional resources based on existing workers and actor
 ##### Tough
 Hired muscle that can be used to disrupt work or take out opponents.
+Cost to put into play [2 Food or 1 Coin]
+- Place on an opponant lodge to prevent additional work that turn
+- Place on an opponant space with a worker to return them to the player board
+- Place on an actor to attempt to assasinate
+- Place on a plot card to enact
+
 ##### Investigator
-Deft inspectors who can unearth secrets of your opponents.
+Deft inspectors who can unearth secrets of your opponents.  
+Cost to put into play [1 Food and 2 Coin]
+- Investigate - the actor takes one mark OR must relinquish a secret.  
+- If the actor has one mark, they must take another or relinquish two secrets etc.
+- If they took full marks, they enter your secrets pile.
+- The investigator can look at the top secret and move it to the bottom of the pile.
+- The investigator can look at another player's hand.
+- In the final hour, investigators can protect you from offensive conspiracies.
+
 ##### Occultist
-Mystics who use occult methods to enact favor for the lodge and their plots.
+Mystics who use occult methods to enact favor for the lodge and their plots.   
 ##### Peasants 
-People on the board that can be hired for any task
+People on the board that can be hired for any task [ALT] No Peasants
+##### [ALT] Generic Pawns
+All pawns are the same for a lodge, they just cost differently and act differently based on where they are placed on the board.
 
 #### Resources
-These are pieces that are collected from a "bank" and stored in a Lodge vault, or sometimes on board locations or installed into a plot.  They are pieces of plastic, wood or cardboard that represent resources that can be used or spent.
-##### coin
-##### bread
-##### ingots
-##### timber
-##### ether
-##### phlogiston
+These are pieces that are collected from a "bank" and stored in a Lodge vault, or sometimes on board locations or installed into a plot.  They are pieces of plastic, wood or cardboard that represent resources that can be used or spent.  Resources are used to build buildings, trade for coin, hire pawns, recruit actors, gain victory points, and enact your conspiracies plot.
+
+##### Coin
+Gained by workers traveling to the market space in the board's center and trading resources.
+##### Bread [ALT] Food
+Produced on farm spaces by placing a worker on the space.  An additional bread is produced for each worker on the space, and for every actor with a baker trait.
+##### Meat
+Produced on butcher spaces by placing a worker on the space.  An additional bread is produced for each worker on the space, and for every actor with a butcher trait
+##### Ingots
+Produced on factory spaces by placing a worker on the space.  An additonal ingot is produced for each worker on the space, and for every actor with a smith trait.
+##### Timber
+Produced on forrest spaces by placing a worker on the space.  An additional timber is produced for each worker on the space and for every actor with a lumber trait.
+##### Ether
+Produced on a lyceaum space by placing a worker on the space.  Additional ether is produced for each worker on the space and for every actor with an occult trait.
+##### Phlogiston
+Produced on a chemist space by placing a worker on the space.  Additional phlogiston is produced for each worker on the space and for every actor with a chemist trait.
 
 #### Cards
 The deck of cards represent the cast of potential characters, items and plots points that can become part of your conspiracy.  
 
-The **draw pile** is referred to as the **cast**, your hand the conspiracy, and individual cards as actors, items or plot points.
+The **draw pile** is referred to as the **cast**, your hand the conspiracy, and individual cards as actors, artifacts, locations, gambits, boons or conditions.
 
 This is the main deck of cards that you can draw from
-		- **Actors** that enter your conspiracy
-		- **Items** that can be added to secrets or played during specific phases, or added to lodge 
+		- **Actors** that enter your conspiracy (32)
+		- **Artifacts** that can be added to secrets or played during specific phases, or added to a lodge to be used by any actor (8)
+    - **Locations** that can be added to the board and pawns can be played there to activate their benefits
 
-Each card has one or more associated guilds, astral signs and special powers.  They also have a base influence, constitution and aura.  Lastly, there is a cost to bring them into play
+Each actor has one or more associated guilds, astral signs and special powers.  
+They also have a base base influence (adds), constitution (toughs to kill) and aura (improvement of astral track). 
+Lastly, there is a cost to bring them into play.
 
 The player hand is referred to as your **conspiracy** and you must pay to play them into your **cadre**.
 
-### Buildings
+### Places / Buildings
 
-#### Warehouse 
-Resources that you have collected are kept at a warehouse before they are sold.
+The total number of buildings controlled by the lodge in a district determines the most powerful lodge in the district.  Ties are broken by continously controlled spaces.
 
-#### Factory
-Produce new resource with workers
+#### Marketplace
+Resources that you have collected can be sold.  By placing a pawn in the marketplace, you can sell resources for coin at the going rate.
+4 Bread : 1 Coin / 3 Bread : 1 Coin
+3 Wood : 1 Coin / 2 Iron : 1 Coin
+For every pawn in the marketplace, the number of resources to gain 1 coin increases by 1.
+
+#### Lodge 
+A chapter of the lodge.  One lodge is required in a borough to be able to build any other buildings.  For each lodge, gain one more worker or tough to your player board
+at the start of the season.
+
+#### Hall
+A meeting hall for the lodge.  A hall is required to be able to elect one of your actors as an alderman (?).  For each hall, gain 2 power, and one worker is added on the hall space.
+
+#### Lycaeum
+A place of formal learning.  Gain one more occultist or investigator on your player board when played.  
+
+#### Salon
+A place of informal learning, dealing and secrets.  Gain one secret from the deck OR gain one influence
 
 
 ## RULES & SYSTEMS
 
 ### How to set up the game?
-Open up the game board and place it in the center of the table.
-Each player selects a lodge mat.   This represents their lodge.
-Each player selects a secret society card, and a plot card.  These can be read by the player, but should be placed face down on their lodge.
-Each player draws a hand of five cards.  These are potential members of your lodge.
-Fill all of the base slots on your lodge mat with locations and pawns.
-Place five actors from the deck face up, as candidates for alderman, and place one in each district.
-Each player gets the base resources listed on their lodge mat.
+- Open up the game board and place it in the center of the table.
+- Open up the astral board and place next to the game board.  
+- Draw a season tile for each of the six seasons, and place next to each season track.  Reveal the first tile and set the astral signs.
+- Place the eight trade boards on the sides of the game board.
+- Place one of each base trade factory in each of the districts of the board, in the space furthest from the market.
+- Each player selects a lodge mat.   This represents their lodge.
+- Each player selects a secret society card, and a plot card.  These can be read by the player at any time, are secret to other players and are face down next to their lodge. 
+- Fill all of the base slots on your lodge mat with locations and pawns.
+- Shuffle the deck of game cards.
+- Deal each player three cards to start their hand.
+- Then draw two cards per player face up in the gallery.  In order inverse from the starting player, each player takes turn drafting cards from the gallery.
+- Each player gets the base resources listed on their lodge mat. [2 coin, 4 food]
+- Each player chooses one location to place their starting lodge.
 
 ### Who goes first?
 You can randomly choose who goes first, but without any other method - pick the last person who has smoked a pipe.
 
 ### What happens in each round?
 Each round is divided into three phases.
-**Consolidation** 
+
+**Consolidation / Production (Income)** 
+
 Earn any income, resources or energy based on conspiracy.  This happens all at once.
-**Actions**
+- For each worker on a factory, earn the total number of resources of that factory type
+
+**Mechanaztion (Actions)**
 Each player takes one action in order around the table until they choose to no longer take an action, or they are unable to take an action.
-**Seasons End**
-Each district has a newly elected aldarman
-The astral signs move on to the next season.
+- Player can:
+  - Draw:  Spend an influence to draw a card from the deck, or spend two influence to draw a specific card from their own secrets.
+  - Level Up:  Spend the cost to raise the rank of their grand master.  This makes them harder to assasinate and more powerful in the endgame scoring (see secret society card)
+  - Plan a building:  Spend the cost to add a building token to your lodge board.
+  - Hire:  Spend the cost to hire a new pawn to your lodge board
+- Place a building.  
+  - You can place a building in a district IF you share one trait with the aldarman, spend one influence or one secret.
+  - You most pay the building tax in coins.  The outermost is 0, the next is 1, and the inner is 2.   If you are building next to an opponant, you must pay to them.
+  - You have an existing building or pawn in the burrough.
+- Play pawns.
+  - In order to play a pawn on a space, you must have the appropriate building in the same district as a lodge or hall.
+- Play a worker on a:
+  - Factory: As long as your lodge has adequate favor, place a worker in the next open space in the factory.  Gain one resource.  
+      If the worker remains there until the next season, you will collect additional resources.
+  - Lodge or hall:  To make them available to cast votes.
+  - Market: To trade your resources for coins at the going rate.
+- Play a tough on a:
+  - Factory: To intimidate workers from another lodge.  No more can be added unless the tough is removed.
+  - Lodge: To intimidate members of the lodge.  No workers can vote there unless the tough is removed.
+  - Actor: To intimade the actor.  They cannot use their special ability unless the tough is removed.
+      - If three toughs are put on an actor, they have been assasinated and go into the discard pile.  The tough's lodge gains power. 
+- Play an investigator on a:
+  - Actor:  To investigate the actor.  Draw a card from the deck and add it to your secret pile.
+  - Factory: To investigate the factory.  Reduce the favor of one opponant by one.
+  - Lodge: To investigate the lodge.  Look at their top secret.  Play two investigators to make a lodge discard a secret.
+- Play an occultist:
+  - On the astral board:  On any space.  The lodge gains that trait effectively.
+  - Gain energy relative to the players level of power with the astral trait.
+- Play a card:
+  - Pay the cost on the card and then add to your conspiracy or resolve it's effect.
+- Activate a card:
+  - A card in your conspiracy can be activated by tapping it.  Pay any cost and resolve the related action.
+- Unfurl your secret plot:
+  - Reveal the plot and pay the base cost.  Add any additional optional costs to fuel it to gain more power.
+  - Each player gets one additonal action, and then the final hour is resolved.
+
+**Resolution (Season's End)**
+If any players mechanation unfurled their plot, resolve and end the game.
+The astral signs move on to the next season
+Each district has a newly elected aldarman.
+
+**Election**
+For each district, there is a new election each season.  The player with the most pawns in a district can decide to keep the same aldarman, or replace with one of their
+actors.  If another player wants to challenge the election, they can spend infuence to throw the election.  Or they can spend energy to manipulate the vote if the energy type matches the current astral calendar.
 
 ### How does the game end?
+When the first secret lodge unfurls their conspiracy, or after the end of six seasons, the player with the most power wins.
 
 #### Action Types
 - play card from hand into conspiracy
-- move pawn
+- move a pawn on the board
 - use pawn ability
 - produce resources?
 - add to plot
 - add to secrets?
 - run for election?
 - investigate?
+- tap an actor to use an ability
 - draft a character into your conspiracy
 - draw another players character into your conspiracy
 - improve your lodge
@@ -175,13 +295,34 @@ The astral signs move on to the next season.
 
 ## APPENDIX
 
+### Dice
+[IDEA] Using some dice variants in this game.  
+RED 000 111 disfavor
+BLU 011 112 standard wide
+BLA 001 122 neutral
+GRE 111 222 favor
+PUR 000 123 gambit
+
+Roll for actions:
+- Workers: To produce resources or defend
+- Toughs: To attack
+- Inspectors: To investigate
+- Occultists: To produce energy or change favor or disfavor
+- Secret Plot: Roll base on card rules
+
+For most rolls, use the neutral dice.
+If your grand master is in favor or disfavor, roll the appropriate dice.
+You can spend energy to improve one die to a gambit die.
+
 ### Guilds / Trades
-Butchers (food
-Bakers
-Masons
-Iron Workers
-Chemists
-Alchemists
+Butchers (food)
+Bakers (food+1)
+Carpenters (material)
+Smiths (material+1)
+Alchemists (energy)
+Chemists (energy+1)
+Scribes (influence)
+Printers (influence+1)
  
 ### Lodge Names
 Elk
@@ -204,11 +345,14 @@ Whisperers
 Hermetic Brotherhood
 
 ### Secret Plots
-Unleash Golem
-Summon Demon
 Mechanical Spider
+Hulking Golem
+Sleep Gas
+Thought Control
+Lead into Gold
+Summon Demon
+Free Workers
 Weather Control
-Mind Control
 
 ### Astral Signs
 Moon
@@ -221,11 +365,25 @@ Air
 Fire
 
 ### Resources
-Food
-Material
-Energy
+Food (Bread, Meat)
+Material (Wood, Iron)
+Energy (Phlogiston, Ether)
 Influence
+Popularity/Noteriety? (has to do with how many buildings are built in an area)
 Coin
+Power
+
+### Locations
+Museum
+Chapel
+Stables
+Constable
+Tavern
+Candlemaker
+Speakeasy
+Brothel
+Dungeon
+Blackmarket
 
 ### Pawns
 Are these BY lodge/color?
@@ -279,8 +437,8 @@ certain rituals can change the alignment of the planets to create constellations
 can claim things from the guild based on your ranking in the guild/lodge?
 
 **Resource types**
-pawns
-coin
+Pawns - represent small people and can be placed on the lodge board, city board or actor cards
+Coin - represents wealth
 energy
 material
 occult
@@ -301,7 +459,7 @@ Secret societies: rod of hermes
 
 Suspicion cards You can use a power from your secrets deck but it lets other players unfurl your conspiracy.
 
-#### Early ideas
+#### Brainstorming & Early ideas
 - Lodges are public societes with affiliates to trades and cabals
 - Trades relate to the players and the board
 - Cabals are secret organizations of power
@@ -317,7 +475,7 @@ Suspicion cards You can use a power from your secrets deck but it lets other pla
 - Trial deck contains tasks that the player can accomplish to then alter the favored signs or recieve another benefit
 - Hovels can be place from a collective pool at the cost of two coins
 - Your henchmen can be placed for the cost on your playmat, modified by actors or the state of the favors
-- At the start of an act, you can favor based on each alderman, coin or food based on each trade workshop and influence or actions from each actor
+- At the start of an act, you gain favor based on each alderman, coin or food based on each trade workshop and influence or actions from each actor
 - Every card has some sigils on it which can be used to build power for a cabal
 - Actor types?
 	- Butcher +2 food
@@ -355,23 +513,30 @@ Geoff Maddock: Discarding one card into the secrets pile costs one influence
 
 
 ## Play Test versions
-1.0
+0.1.21 - ALPHA - Working rules set
+1.0 - First Playtest Rules set
 
+## To Do
+- Clean up brainstorming
+  - Core - elements that will be in the game
+  - Likely - elements that likely will be in the game
+  - Variable - elements that may be taken in or out or tweaked
+  - Ideas - elements that don't have a solid form
+- Write up resources
+  - Complete ruleset and Q&A - includes details of all rules as well as answers to specific questions
+  - Quick start - brief rules and concise instructions on how to set up and start play
+  - At a glance - pictographic card summary of the way turns go and the most basic rules systems at a glance
+  - Iconography - glossary of short hands used on the boards, cards and pieces
+  - Parts list - complete list of all parts
+- Playtests
+  - Write up each rules version variation
+  - Take notes during play on
+	- How easy rules are understood
+	- What systems work or don't work
+	- What questions were asked - did they have an answer
+	- How fun was it?
+	- Other feedback from users
+  - Write a post mortum summary and make notes on what rules worked or didn't and alternatives
 
 ## Resources
 [https://www.gamestructor.com/Boards](https://www.gamestructor.com/Boards)
-
-
-<!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJ1b1VnVW5hVEtXbENHOXlDIjp7In
-RleHQiOiJMaXN0IGl0ZW0iLCJzdGFydCI6MTQ1MTAsImVuZCI6
-MTQ1NzJ9fSwiY29tbWVudHMiOnsiZEw1VXhRTEExV2hyMlFkTC
-I6eyJkaXNjdXNzaW9uSWQiOiJ1b1VnVW5hVEtXbENHOXlDIiwi
-c3ViIjoiZ286MTE0MjI1NTI3Mzg1NDc0MjY3OTkwIiwidGV4dC
-I6Ik5vdCBzdXJlIG9uIHRoaXMgaWRlYSAtIGNvdWxkIHJlbGF0
-ZSB0byBuZWdhdGluZyBwbG90cyBvciBzZWNyZXRzLCBidXQgcH
-JvYiBiZXR0ZXIgZm9yIGludmVzdGlnYXRvcnMuIiwiY3JlYXRl
-ZCI6MTU4Mjg3MzY0OTgxM319LCJoaXN0b3J5IjpbMTgwMTMyNz
-I4LC01NzQ3OTU2NzgsLTg0NTUxMjA3NCwxMDcwODU4NjM4XX0=
-
--->
