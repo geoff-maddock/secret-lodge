@@ -19,17 +19,38 @@ This is the cheat sheet briefest set of rules to use during play.
 
 ## SEASONS
 Each season has three phases
+
 # CONSOLIDATION
+- Gain resources based on the state of your board
+- Factories and cards that produce resources produce them now
+- Pawns that can return, return to your lodge
+- Actors untap
 
 # MECHINATIONS
-- Each player takes one available action on their turn, then player to their right and so on, until all players have passed.
+- Each player takes one available action on their turn, then player to their right and so on, until all players have passed, unless an ability cirucumvents this.
 - Available actions depend on the lodge, actors, pawns, buildings and cards.
 - All actions must be stated aloud and the applicable rule or text allowing the action must be stated.
 - The first player to pass has the first option to place actors up for election, and for every time their seat comes up and play still continues, 
-    they recieve a pawn vote from the supply
+    they recieve a pawn vote from the supply.  (Early campaigners build support)
+
 # RESOLUTION
-- All actions occur at once
-- Elect new aldermen in each district
-- Check if any secret plot has been inleashed
-- Return any available pawns to your lodge board
+- All actions occur at once 
+- Elect new aldermen in each district, and winning player select new laws;  if a non-player actor is elected, retain the last law.
+- Check if any secret plot has been unleashed
 - Advance the astral signs
+
+# ACTIONS
+- Available actions depend on the lodge, actors, pawns, buildings and cards.
+- Hire Pawns
+  - Pawns can be added to a player's board for the cost specified.  You can hire as many pawns as you can afford to hire with one action.
+  - Pawns include workers, toughs, invistigators, occultists
+- Play Pawns
+  - You can play a pawn from your conspiracy board to any location.  If there is an associated cost, pay that, although there may not be.  
+    - Gain any relevant reward 
+- Tap an Actor
+  - You can activate a power on an actor by tapping (turning sideways) and then gaining the relevant reward.  Tapped actors cannot be re-tapped unless another ability allows this.
+- Play a card
+  - You can play a card from your hand by paying the cost.  You then place it into your conspiracy, face up in front of you.  If there are any "on play" rewards, gain them.
+- Pass your turn
+  - When you have no other actions you wish to take during this phase, announce that you are passing.  If you are the first to pass, take the first player token.
+  - You may place one of your actors up for election in any district where you have a hall.  Place one worker pawn there to represent the initial vote, and each additional round that play continues, place one more worker on your actor.

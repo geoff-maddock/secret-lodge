@@ -23,21 +23,21 @@ Each lodge will use its actors and pawns to gain resources and influence in orde
 - after the final hour, final power is totalled and the most powerful lodge standing wins
 
 ## GAME TERMS
-Season - the largest sequence of game actions, each season consists of three phases
-	Production - earn based on starting state of your lodge
-	Mechination - take actions with cards, actors and pawns
-	Resolution - unfurl plots, return workers, elect aldermen, advance astral chart
-Phase - one of the three phases of each season that mark different sets of actions for players
-Turn - a player action taken during a phase.  after a player takes one legal action, play continues clockwise unless otherwise specified 
-Action - any of the legal plays available to a player on their turn, either through cards in their conspiracy, hand, pawns and are payed for via resources in their vault.
-Lodge - each player's set of cards, board and pieces
-Resources - one of the types of resources used in the game to pay for actions.  they include food, material, energy and resources and are tracked on each player's lodge board.
-Vault - area of the lodge board where a player records the resources that have been earned
-Hand - the cards that are held secretly in the players hand
-Conspiracy - the players cards that are laid out in front of them that may take actions
-Actors - any of a players specific cards that represent a person
-Pawn - any of the small movable parts of the game that are not cards
-Secrets - a face down set of cards placed in the secrets pile of their lodge.  a player can look through them, but not re-order them unless otherwise noted.
+- Season - the largest sequence of game actions, each season consists of three phases
+	1 Production - earn based on starting state of your lodge
+	2 Mechination - take actions with cards, actors and pawns
+	3 Resolution - unfurl plots, return workers, elect aldermen, advance astral chart
+- Phase - one of the three phases of each season that mark different sets of actions for players
+- Turn - a player action taken during a phase.  after a player takes one legal action, play continues clockwise unless otherwise specified 
+- Action - any of the legal plays available to a player on their turn, either through cards in their conspiracy, hand, pawns and are payed for via resources in their vault.
+- Lodge - each player's set of cards, board and pieces
+- Resources - one of the types of resources used in the game to pay for actions.  they include food, material, energy and resources and are tracked on each player's lodge board.
+- Vault - area of the lodge board where a player records the resources that have been earned
+- Hand - the cards that are held secretly in the players hand
+- Conspiracy - the players cards that are laid out in front of them that may take actions
+- Actors - any of a players specific cards that represent a person
+- Pawn - any of the small movable parts of the game that are not cards
+- Secrets - a face down set of cards placed in the secrets pile of their lodge.  a player can look through them, but not re-order them unless otherwise noted.
 
 ## PARTS & BOARDS
 
