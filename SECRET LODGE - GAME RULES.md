@@ -8,52 +8,53 @@ This is the current detailed set of rules being used to playtest.
 High espionage, industrial fantasy and occult intrigue in a tumultuous "steam era" London.   Each lodge competes to gain power amongst exploding and competitive industry - but all is not as its seems!  Behind each lodge is an even more insidious secret society, attempting to unleash their plot and rise to power and infamy.
  
 ## OBJECTIVE
-Each lodge will use its actors and pawns to gain resources and power in order to become the most powerful lodge in mythic-victorian London.  There are a few paths to power:  A) by producing the most and highest quality goods while disrupting the work of other lodges, B) by increasing the influence of your lodge and impugning competing lodges by election, might or the occult, C) unfurling the secret plots of other lodges or D) unleashing your plot and gaining the most power via your diabolical methods!   The game ends when a plot is unleashed, a single lodge controls all workshops, or is elected into power in each district.
+Each lodge will use its actors and pawns to gain resources and influence in order to become the most powerful lodge in mythic-victorian London.  There are a few paths to gaining the most power and victory:  A) by producing the most and highest quality goods while disrupting the work of other lodges, B) by increasing the influence of your lodge and impugning competing lodges by election, might or the occult, C) unfurling the secrets of other lodges or D) unleashing your plot and gaining the most power via your diabolical methods!   The game ends when a plot is unleashed, a single lodge controls all workshops, or is elected into power in each district.
 
 ## BASICS
 - 2-6 players
 - 60 - 120 mins (no reference)
-- setup involves each player taking a lodge board and following the setup on that board, drawing their starting hand and selecting starting aldermen for each district
+- setup involves each player taking a lodge board and following the setup on that board, drawing their starting hand, secret society and plot
 - play takes place over 6+ seasons
 - each season has phases
   - elections - new aldermen are elected for each district
   - income - income is awarded based on the state of your lodge
   - the chase - players take actions round robin until all players have passed
   - the final hour - once a plot is unleashed, a special final phase takes place
-- after the final hour, final power is total and the most powerful lodge standing wins
+- after the final hour, final power is totalled and the most powerful lodge standing wins
 
 ## GAME TERMS
-Season / Round - the largest grouping of game actions, each season consists of three phases
+Season - the largest sequence of game actions, each season consists of three phases
 	Production - earn based on starting state of your lodge
 	Mechination - take actions with cards, actors and pawns
-	Resolution - unfurl plots, return workers, elect aldermen
+	Resolution - unfurl plots, return workers, elect aldermen, advance astral chart
 Phase - one of the three phases of each season that mark different sets of actions for players
-Turn - a player action taken during a phase.  after they take one legal action play continues clockwise unless otherwise specified 
-Action - any of the legal actions available to a player on their turn, either through cards they have in their cadre, hand, pawns and payed for via resources in their vault.
+Turn - a player action taken during a phase.  after a player takes one legal action, play continues clockwise unless otherwise specified 
+Action - any of the legal plays available to a player on their turn, either through cards in their conspiracy, hand, pawns and are payed for via resources in their vault.
 Lodge - each player's set of cards, board and pieces
-Resources - one of the types of resources used in the game to pay for actions
-Vault - resources that have been earned and are stored on a player board
+Resources - one of the types of resources used in the game to pay for actions.  they include food, material, energy and resources and are tracked on each player's lodge board.
+Vault - area of the lodge board where a player records the resources that have been earned
 Hand - the cards that are held secretly in the players hand
 Conspiracy - the players cards that are laid out in front of them that may take actions
 Actors - any of a players specific cards that represent a person
 Pawn - any of the small movable parts of the game that are not cards
-Secrets - a face down set of cards placed in the secrets pile of their lodge
+Secrets - a face down set of cards placed in the secrets pile of their lodge.  a player can look through them, but not re-order them unless otherwise noted.
 
 ## PARTS & BOARDS
 
 ### BOARDS & LOCATIONS
 
 #### City Board
-The city board is where real-world action occurs in the game, and represents the the fictional steam-era "London" that is the game's setting.   The city is made up of **five different districts**: *North, East, South, West* and *Central*, and each contains **four borroughs** that in turn contain **seven hexagonal spaces**.   Each district has a space for the currently elected **alderman**.  They set some rules for that district while the remain elected.  Around the outside of the city is the **power track** that keeps track of the overall power of each lodge in the city.  Each lodge has a pawn on the power track (basically "victory points" earned for different actions that increase the lodge's power). In the final hour, the secret societies clash, unleash their secret plots and only one is left standing.
+The city board is where real-world action occurs in the game, and represents the the fictional steam-era "London" that is the game's setting.   The city is made up of **five different districts**: *North, East, South, West* and *Central*, and each contains **four borroughs** that in turn contain **seven hexagonal spaces**.   Each cardinal district has a space for the currently elected **alderman**.  They set some rules for that district while they remain elected and a new election happens each season.  Around the outside of the city is the **power track** that keeps track of the overall power of each lodge in the city.  Each lodge has a pawn on the power track (basically "victory points" earned for different actions that increase the lodge's power). In the final hour, the secret societies clash, unleash their secret plots and only one is left standing.
 
 ##### How will locations / empty space play into the game? #####
-Building near the city center is more expensive, but trading goods for coin is more profitable.    Building near your own places improves your influence - being the dominant lodge in a district gives you victory points.   Building apart allows you to effect more districts.   Building near an opponent allows them easier access to your secrets.   There are also ten (10) unique locations that can be added to the game based on cards that have their own related actions.    Museum, Chapel, Stables, Constable, Tavern, Morgue, Speakeasy, Brothel, Dungeon, Blackmarket.
+Building near the city center is more expensive, but trading goods for coin is more profitable.    Building near your own places improves your influence.  Being the dominant lodge in a district gives you victory points.   Building apart allows you to effect more districts.   Building near an opponent allows them easier access to your secrets.   There are also ten (10) unique locations that can be added to the game based on cards that have their own related actions.    Museum, Chapel, Stables, Constable, Tavern, Morgue, Speakeasy, Brothel, Dungeon, Blackmarket.
 
 #### Astral Track
-A circular depiction of each of the astral sigils and their state of favor or disfavor/alignment.
-The thee spirits indicate the current astral alignment and they move forward one or more positions per season.
-The white, black and red tokens indicate the sigils in favor.
+The astral track is a circular depiction of each of the astral sigils and their state of favor or disfavor/alignment.
+The two spirits indicate the current astral alignment and they move forward one or more positions per season.
+The white and black tokens indicate the sigils in favor or disfavor.
 Each lodge can perform rituals to increase their energy in any of the sigils.
+Your lodge's astral signs depend on the grand master as well as any occult favors gained.
 
 [Ideas]
 - "Spirit" Tokens or pointers on this represent the current astral signs in favor [Y]
@@ -63,18 +64,40 @@ Each lodge can perform rituals to increase their energy in any of the sigils.
 - Occultists can influence these through actions [Y]
 
 #### Guild boards 
-[Idea]
-Each guild / trade has it's own board on the play area, as well as "factory" spaces on the play board.   
-Players pay to place their workers in the factory to earn resources, which are added to their lodge boards.  The cost to add depends on how many workers are available,
-the current favor of your lodge with the guild, and the access of your guild master.
-The actors each player have determine how they can work within each lodge or guild.
-This board/track shows the relative favor or disfavor of each lodge, plus number of free workers in each, shows the current head of each lodge,  other resources?
-Lodges can build new factories to improve their standing, or spend secrets to place workers even if they are in bad favor with the lodge.
+Each guild / trade has it's own board on the play area, as well as factory spaces on the play board.   Play begins with one factory in each district.
+
+Favor
+- Initially, each lodge places a token on the zero favor slot.
+- Favor determines how well your workers will produce at the particular trade.  
+- The favor number determines how many dice you can swap for favor dice during production.
+- If a lodge falls into disfavor, any dice they roll during production will be disfavor / they cannot produce in that trade [idea]
+
+They can gain favor by:
+- Playing an actor with the specified trade (if they are removed, you lose the favor)
+- Building a new factory location by paying the cost on the guild board
+- Use the special ability of a card
+
+Placing  Workers
+- Players can place their workers in the factory to earn resources, which are earned in the production phase.
+- If you have no favor with the guild, you cannot place any workers into that trade.
+- For each worker placed in the factory, one die is rolled, plus one per favor, and the player collects that many of the specified resource
 
 
 #### Player Board / Lodge Board
 This board is where an individual player controls the inner workings of their secret lodge.
-The lodge board has several special spaces, and other than the lodge name, everything can be configured about the set-up for each lodge
+The lodge board is divided into a few sections designated for different functions.
+
+On the left is the lodge name, below that the grand master of the lodge is placed, and below
+that is the tracker that indicates his ranking in the secret society.  
+
+In the center are the lodge resources and storehouse.   There are tracks for how many buildings the lodge has placed, how many pawns they have available,
+and what resources they have available, each which are indicated by tracking pawns.
+
+On the right is the secrets deck.  These are cards that represent secrets about different lodges and actors in the game and can be used as leverage.
+You can gain them through investigations and occult activities and they are useful for gaining power and unleashing plots.
+
+There are symbols and notes throughout that will help in indicating how each section can be activated.
+
 
 ##### Grand Master
 Any actor can be placed as the grand master of your lodge, and their attributes are considered the attributes of your lodge.  The grand master can be protected by toughs or occultists, and can be leveled up in order to gain power and enact the plot.
