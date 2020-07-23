@@ -203,9 +203,11 @@ Resources that you have collected can be sold.  By placing a pawn in the marketp
 3 Wood : 1 Coin / 2 Iron : 1 Coin
 For every pawn in the marketplace, the number of resources to gain 1 coin increases by 1.
 
+### Buildings
+Buildings define the power of a lodge in a district.  The number of buildings on the board during consolidation
+
 #### Lodge 
-A chapter of the lodge.  One lodge is required in a borough to be able to build any other buildings.  For each lodge, gain one more worker or tough to your player board
-at the start of the season.
+A chapter of the lodge.  One lodge is required in a borough to be able to build any other buildings or place pawns there. For each lodge, gain one more worker or tough to your player board at the start of the season.
 
 #### Hall
 A meeting hall for the lodge.  A hall is required to be able to elect one of your actors as an alderman (?).  For each hall, gain 2 power, and one worker is added on the hall space.
@@ -451,7 +453,7 @@ Plots: if unleashed it becomes the final turn and a grand battle occurs as every
 
 Use magic, ingots, flesh and wool to build a secret golem or champion for your conspiracy, when activated has vast power and influence and victory points.
 
-Resources: ingots, wool, gold, phlogiston, aether, bread, glass, brick, timber
+Resources: ingots, wool, gold, orgone, aether, bread, glass, brick, timber
 
 Your conspiracy/chars can take one of several actions.  Manage work, move pawns, enter politics, build plot, build factory, rally influence, bolster lodge?
 
