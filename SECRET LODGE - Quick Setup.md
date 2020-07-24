@@ -5,8 +5,9 @@
 
 This is the stripped down set of all necessary rules to get started playing.
 
-See the **GAME RULES** for any questions or details.
-See the **CHEAT SHEET** for a very brief checklist of rules.
+See the **[GAME RULES](SECRET%20LODGE%20-%20GAME%20RULES.md)** for any questions or details.
+
+See the **[CHEAT SHEET](SECRET%20LODGE%20-%20Cheat%20Sheet.md)** for a very brief checklist of rules.
 
 ## GAME SETUP
 - Place city board in middle of play area

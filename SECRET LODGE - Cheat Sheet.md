@@ -5,8 +5,9 @@
 
 This is a brief checklist of rules and actions available in the game.
 
-See the **GAME RULES** for any questions or details.
-See the **CHEAT SHEET** for a very brief checklist of rules.
+See the **[GAME RULES](SECRET%20LODGE%20-%20GAME%20RULES.md)** for any questions or details.
+
+See the **[QUICK SETUP](SECRET%20LODGE%20-%20Quick%20Setup.md)** for stripped down set of rules to get started playing.
 
 ## GAME SETUP
 - Place **city board** in middle of play area
