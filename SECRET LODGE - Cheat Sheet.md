@@ -1,9 +1,15 @@
 # SECRET LODGE 
-## QUICK SETUP
-This is the cheat sheet briefest set of rules to use during play.
+
+## RULES VERSION
+**Cheat Sheet** - v.0.5 - DEVELOP 
+
+This is a brief checklist of rules and actions available in the game.
+
+See the **GAME RULES** for any questions or details.
+See the **CHEAT SHEET** for a very brief checklist of rules.
 
 ## GAME SETUP
-- Place city board in middle of play area
+- Place **city board** in middle of play area
 - Place each trade card around the outside of the bard
 
 ### PLAYER SETUP
@@ -43,22 +49,25 @@ Each season has three phases
 
 ## CONSOLIDATION ACTIONS
 - Available actions depend on the lodge, actors, pawns, buildings and cards.
-- Gain resources based on what buildings you have in the city
+
+### Gain resources based on what buildings you have in the city
   - Lodge - 1 worker per lodge
   - Hall - 1 worker, 1 tough OR 1 coin per hall
   - Lyceum - 1 investigator or 1 occultist per lyceum
   - Salon - draw one card from the deck and place in secrets or add one influence
-- Factories and cards that produce resources produce them now
+
+### Factories and cards that produce resources produce them now
   - for each worker in a factory slot you get a die to roll.  for each favor, you can replace a standard die with a favor die
   - receive the number of resources
-- Pawns that can return, return to your lodge (most are discarded)
-- Actors untap
 
-- Hire Pawns
+### Hire Pawns
   - Pawns can be added to a player's board for the cost specified.  You can hire as many pawns as you can afford to hire with one action.
   - Pawns include workers, toughs, invistigators, occultists
 
-# MECHANATION ACTIONS
+### Pawns that can return, return to your lodge (most are discarded)
+### Actors untap
+
+## MECHANATION ACTIONS
 - Lodge Actions
   - Draw the top card from the deck - 1 influence
   - Draw a card from your secrets - 2 influence
@@ -73,6 +82,20 @@ Each season has three phases
   - place a worker on the market space
   - trade resources for coins at the going rate in the district
   - you can trade in any district that you have a lodge
+
+- Draw:  Spend an influence to draw a card from the deck, or spend two influence to draw a specific card from their own secrets.
+- Level Up:  Spend the cost to raise the rank of their grand master.  This makes them harder to assasinate and more powerful in the endgame 
+
+### Play Pawns
+  - You can play a pawn from your conspiracy board to any location.  If there is an associated cost, pay that, although there may not be.  
+    - Gain any relevant reward 
+    - Pawn plays
+      - Workers can be placed in open factory slots
+      - Occultists can be placed in the outer ring of the astral circle
+
+- Add a building
+  - To add an additional building, pay the associated cost on your player board
+  - Add another building token to the additional slots on your board.
 
 - Build a Building
   You can build a building if you have one available.

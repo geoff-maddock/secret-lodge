@@ -1,8 +1,12 @@
 # SECRET LODGE 
 
-## GAME RULES
-v.0.4.20 - DEVELOP
+## RULES VERSION
+**Complete Game Rules** - v.0.5 - DEVELOP 
+
 This is the current detailed set of rules being used to playtest.
+
+See the **QUICK SETUP** for stripped down set of rules to get started playing.
+See the **CHEAT SHEET** for a very brief checklist of rules.
 
 ## STORY
 High espionage, industrial fantasy and occult intrigue in a tumultuous "steam era" London.   Each lodge competes to gain power amongst exploding and competitive industry - but all is not as its seems!  Behind each lodge is an even more insidious secret society, attempting to unleash their plot and rise to power and infamy.
