@@ -54,7 +54,7 @@ Each season has three phases
 ### Gain resources based on what buildings you have in the city
   - Lodge - 1 worker per lodge
   - Hall - 1 worker, 1 tough OR 1 coin per hall
-  - Lyceum - 1 investigator or 1 occultist per lyceum
+  - Tower (Lyceum) - 1 investigator or 1 occultist per lyceum
   - Salon - draw one card from the deck and place in secrets or add one influence
 
 ### Factories and cards that produce resources produce them now
@@ -69,23 +69,22 @@ Each season has three phases
 ### Actors untap
 
 ## MECHANATION ACTIONS
-- Lodge Actions
+### Draw:  Spend an influence to draw a card from the deck, or spend two influence to draw a specific card from their own secrets.
+### Level Up:  Spend the cost to raise the rank of their grand master.  This makes them harder to assasinate and more powerful in the endgame 
+
+### Lodge Actions
   - Draw the top card from the deck - 1 influence
   - Draw a card from your secrets - 2 influence
-  - Vote on an aldarman - place 1 pawn on candidate or spend 1 influence
   - Steal a secret from another player (top secret) - 2 orgone
   - Reveal top opponant secret - 1 investigator
   - Discard top opponant secret - 2 investigators
   - Level up grandmaster - 1 influence or 2 coins + 1 ether / level
   - Hire a pawn - spend the cost to add a pawn to your lodge
 
-- Trade resources
+### Trade resources
   - place a worker on the market space
   - trade resources for coins at the going rate in the district
   - you can trade in any district that you have a lodge
-
-- Draw:  Spend an influence to draw a card from the deck, or spend two influence to draw a specific card from their own secrets.
-- Level Up:  Spend the cost to raise the rank of their grand master.  This makes them harder to assasinate and more powerful in the endgame 
 
 ### Play Pawns
   - You can play a pawn from your conspiracy board to any location.  If there is an associated cost, pay that, although there may not be.  

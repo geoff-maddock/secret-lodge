@@ -20,8 +20,11 @@ See the **[CHEAT SHEET](SECRET%20LODGE%20-%20Cheat%20Sheet.md)** for a very brie
   - Each player in reverse order selects a card, then a second round of drafting proceeds the same way
 - Each player selects a grand master for their lodge and places it in the slot
 - Each player randomly selects a secret society card and a secret plot card
-    - Only they may look at the cards, and in general they will be placed face-down in front of the player until they need to be revealed as per the card instrutions
+    - Only they may look at the cards, and in general they will be placed face-down in front of the player until they need to be revealed as p
 - Each player receives their initial resources as described on their lodge board
+  - One lodge
+  - Four wood
+  - Four bread
 - The first season of the game begins
 
 ## SEASONS

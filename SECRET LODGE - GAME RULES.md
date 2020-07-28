@@ -46,6 +46,18 @@ Each lodge will use its actors and pawns to gain resources and influence in orde
 
 ## PARTS & BOARDS
 
+### DICE
+Dice are used to add variable randomness to certain parts of the game, and are handled with wet erase dice created with different face sets
+In most cases, the standard die is rolled.  In a negative situation the disfavor die is rolled, in a favorable situation, the favor die is rolled.
+**Faces - Type - Color**
+000 111 - Disfavor - Red
+011 112 - Standard - Blue
+001 122 - Neutral - Black
+111 222 - Favor - Green
+[ALT] 011 222 - Favor - Green
+000123 - Gambit - Purple
+
+
 ### BOARDS & LOCATIONS
 
 #### City Board
@@ -68,7 +80,7 @@ Your lodge's astral signs depend on the grand master as well as any occult favor
 - Different cards, lodges and secret societies gain extra benefit based on these [Y]
 - Occultists can influence these through actions [Y]
 
-#### Guild boards 
+#### Guild / Factory boards 
 Each guild / trade has it's own board on the play area, as well as factory spaces on the play board.   Play begins with one factory in each district.
 
 Favor
@@ -79,7 +91,7 @@ Favor
 
 They can gain favor by:
 - Playing an actor with the specified trade (if they are removed, you lose the favor)
-- Building a new factory location by paying the cost on the guild board
+- Building a new factory location by paying the git s on the guild board
 - Use the special ability of a card
 
 Placing  Workers
@@ -134,33 +146,44 @@ The actors played face up in front of you.  These are powerful members of your l
 
 #### Pawns
 These are pieces that can be moved around the board, and from the player board onto the city board.  All pawns can be involved in plots and elections.   Each pawn has specific places it can be used in order to cause an effect or use it's special power.  Pay the cost of the pawn to add it to play.
+
 ##### Worker
-Craftsmen that can be put to work to create resources - Food, Material, Energy which can be traded for Coins
-Cost to put into play [1 Food]
-- Place on an open space to earn one food or one material
-- Place on a factory space to earn additional resources based on existing workers and actor
+**Craftsmen that can be put to work to create resources - Food, Material, Energy which can be traded for Coins**
+Cost to put into play [1 Food] ([ALT] the cost to add to your board, [ALT] the cost to return to your board during resolution)
+- Place on an open space to hold a position - you can only build in a district where you have an existing pawn or building
+- Place on a guild space to earn additional resources based on existing workers and actors
+- ALT Place on an open space and take one food or material
+
 ##### Tough
-Hired muscle that can be used to disrupt work or take out opponents.
-Cost to put into play [2 Food or 1 Coin]
-- Place on an opponant lodge to prevent additional work that turn
-- Place on an opponant space with a worker to return them to the player board
-- Place on an actor to attempt to assasinate
-- Place on a plot card to enact
+**Hired muscle that can be used to disrupt work or take out opponents.**
+Cost to put into play [2 Food or 1 Coin] ([ALT] the cost to add to your board, [ALT] the cost to return to your board during resolution)
+- Place on an open space to hold a position - you can only build in a district where you have an existing pawn or building
+- Place on a guild space to prevent opponant workers from occupying that row. 
+- Place on an opponant space to rub them out (roll - on success return to supply or board)
+- Place on an actor to attempt to assasinate (roll - on a success place in discard pile))
+- Place on a plot card to enact (decribed on card)
 
 ##### Investigator
-Deft inspectors who can unearth secrets of your opponents.  
-Cost to put into play [1 Food and 2 Coin]
-- Investigate - the actor takes one mark OR must relinquish a secret.  
+**Deft inspectors who can unearth secrets of your opponents.**
+Cost to put into play [1 Food and 2 Coin] ([ALT] the cost to add to your board, [ALT] the cost to return to your board during resolution)
+- Place on an open space to hold a position - you can only build in a district where you have an existing pawn or building
+- Investigate:
+- Secrets - The investigator can look at the top secret and move it to the bottom of the pile.  Discard the investigator
+- Opponant Hand - The investigator can look at another player's hand. Discard the investigator
+- Actors 
+- The actor takes a mark or they must relinquish a secret.
 - If the actor has one mark, they must take another or relinquish two secrets etc.
 - If they took full marks, they enter your secrets pile.
-- The investigator can look at the top secret and move it to the bottom of the pile.
-- The investigator can look at another player's hand.
 - In the final hour, investigators can protect you from offensive conspiracies.
+- Place on a Lyceam/Tower or Salon to activate
 
 ##### Occultist
-Mystics who use occult methods to enact favor for the lodge and their plots.   
+**Mystics who use occult methods to enact favor for the lodge and their plots.**
+Cost to put into play [1 Food and 2 Coin] ([ALT] the cost to add to your board, [ALT] the cost to return to your board during resolution)
+
 ##### Peasants 
-People on the board that can be hired for any task [ALT] No Peasants
+[DEP] People on the board that can be hired for any task [ALT] No Peasants
+
 ##### [ALT] Generic Pawns
 All pawns are the same for a lodge, they just cost differently and act differently based on where they are placed on the board.
 
@@ -217,12 +240,13 @@ A chapter of the lodge.  One lodge is required in a borough to be able to build 
 #### Hall
 A meeting hall for the lodge.  A hall is required to be able to elect one of your actors as an alderman (?).  For each hall, gain 2 power, and one worker is added on the hall space.
 
-#### Lycaeum
+#### Tower ([DEP] Lycaeum)
 A place of formal learning.  Gain one more occultist or investigator on your player board when played.  
+Place an occultist or investigator here to gain an additional energy.
 
 #### Salon
 A place of informal learning, dealing and secrets.  Gain one secret from the deck OR gain one influence
-
+Place an occultist or investigator here to gain one secret from the deck or gain one influence.
 
 ## RULES & SYSTEMS
 
@@ -280,8 +304,11 @@ Each player takes one action in order around the table until they choose to no l
   - Factory: To investigate the factory.  Reduce the favor of one opponant by one.
   - Lodge: To investigate the lodge.  Look at their top secret.  Play two investigators to make a lodge discard a secret.
 - Play an occultist:
-  - On the astral board:  On any space.  The lodge gains that trait effectively.
-  - Gain energy relative to the players level of power with the astral trait.
+  - On the astral board:  On any FREE space.  The lodge gains that trait effectively.
+  - ALT Gain energy relative to the players level of power with the astral trait.
+  - ALT Gain VP for each occultist on the astral board equal to their position.  Only one occultist can be in the center space (3).
+  - Cost to advance the occultist is 1 energy per level (1 for 1, 2 for 2, 3 for 3)
+  - 
 - Play a card:
   - Pay the cost on the card and then add to your conspiracy or resolve it's effect.
 - Activate a card:
