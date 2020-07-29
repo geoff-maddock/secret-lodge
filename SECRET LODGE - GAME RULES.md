@@ -57,7 +57,6 @@ In most cases, the standard die is rolled.  In a negative situation the disfavor
 [ALT] 011 222 - Favor - Green
 000123 - Gambit - Purple
 
-
 ### BOARDS & LOCATIONS
 
 #### City Board
@@ -80,7 +79,7 @@ Your lodge's astral signs depend on the grand master as well as any occult favor
 - Different cards, lodges and secret societies gain extra benefit based on these [Y]
 - Occultists can influence these through actions [Y]
 
-#### Guild / Factory boards 
+#### Guild / Trade Factory boards 
 Each guild / trade has it's own board on the play area, as well as factory spaces on the play board.   Play begins with one factory in each district.
 
 Favor
@@ -151,14 +150,14 @@ These are pieces that can be moved around the board, and from the player board o
 **Craftsmen that can be put to work to create resources - Food, Material, Energy which can be traded for Coins**
 Cost to put into play [1 Food] ([ALT] the cost to add to your board, [ALT] the cost to return to your board during resolution)
 - Place on an open space to hold a position - you can only build in a district where you have an existing pawn or building
-- Place on a guild space to earn additional resources based on existing workers and actors
+- Place on a factory space to earn additional resources based on existing workers and actors
 - ALT Place on an open space and take one food or material
 
 ##### Tough
 **Hired muscle that can be used to disrupt work or take out opponents.**
 Cost to put into play [2 Food or 1 Coin] ([ALT] the cost to add to your board, [ALT] the cost to return to your board during resolution)
 - Place on an open space to hold a position - you can only build in a district where you have an existing pawn or building
-- Place on a guild space to prevent opponant workers from occupying that row. 
+- Place on a factory space to prevent opponant workers from occupying that row. 
 - Place on an opponant space to rub them out (roll - on success return to supply or board)
 - Place on an actor to attempt to assasinate (roll - on a success place in discard pile))
 - Place on a plot card to enact (decribed on card)
@@ -215,7 +214,7 @@ This is the main deck of cards that you can draw from
 		- **Artifacts** that can be added to secrets or played during specific phases, or added to a lodge to be used by any actor (8)
     - **Locations** that can be added to the board and pawns can be played there to activate their benefits
 
-Each actor has one or more associated guilds, astral signs and special powers.  
+Each actor has one or more associated trades, astral signs and special powers.  
 They also have a base base influence (adds), constitution (toughs to kill) and aura (improvement of astral track). 
 Lastly, there is a cost to bring them into play.
 
@@ -251,19 +250,27 @@ Place an occultist or investigator here to gain one secret from the deck or gain
 ## RULES & SYSTEMS
 
 ### How to set up the game?
-- Open up the game board and place it in the center of the table.
-- Open up the astral board and place next to the game board.  
-- Draw a season tile for each of the six seasons, and place next to each season track.  Reveal the first tile and set the astral signs.
-- Place the eight trade boards on the sides of the game board.
-- Place one of each base trade factory in each of the districts of the board, in the space furthest from the market.
-- Each player selects a lodge mat.   This represents their lodge.
-- Each player selects a secret society card, and a plot card.  These can be read by the player at any time, are secret to other players and are face down next to their lodge. 
-- Fill all of the base slots on your lodge mat with locations and pawns.
-- Shuffle the deck of game cards.
-- Deal each player three cards to start their hand.
-- Then draw two cards per player face up in the gallery.  In order inverse from the starting player, each player takes turn drafting cards from the gallery.
-- Each player gets the base resources listed on their lodge mat. [2 coin, 4 food]
-- Each player chooses one location to place their starting lodge.
+- Open up the **game board** and place it in the center of the table.
+- Open up the **astral board** and place next to the game board. [ALT] Astral Board is on the main game board.
+- Place the eight **trade boards** on the sides of the game board.
+- [ALT] Draw a **season tile** for each of the six seasons, and place next to each season track.  Reveal the first tile and set the astral signs.
+- [ALT] Place one of each base trade guild in each of the districts of the board, in the space furthest from the market.
+- Seperate and shuffle all the **card** types:
+  - *Game cards* make up the main game deck
+  - *Law cards* are used to set laws in each district
+  - *Secret society* cards are secret victory conditions and each player has one
+  - *Secret plot* cards are secret plots for each lodge and will score the player victory points if enacted
+- Seperate the **place tokens**, **pawns** and **markers** for each lodge color so that they are available.
+- Make sure a pool of **coins* is available for all players.
+
+### Player setup  
+- Each player selects a **lodge board**.  This represents their lodge.
+- Each player selects a **secret society** card, and a **secret plot** card.  These can be read by the player at any time, are secret to other players and are face down next to their lodge. 
+- Fill all of the base slots on your lodge mat with locations and pawns. [ALT] Use the base amount for the game version.
+- Deal each player three *game cards* to start their hand.
+- Then draw two **game cards** per player face up in the gallery.  In order inverse from the starting player, each player takes turn drafting cards from the gallery.
+- Each player gets the base resources listed on their lodge mat. [v.0.5] 2 coin, 4 bread, 0 influence
+- Each player chooses one location to place their starting **lodge**
 
 ### Who goes first?
 You can randomly choose who goes first, but without any other method - pick the last person who has smoked a pipe.
@@ -274,7 +281,8 @@ Each round is divided into three phases.
 **Consolidation / Production (Income)** 
 
 Earn any income, resources or energy based on conspiracy.  This happens all at once.
-- For each worker on a factory, earn the total number of resources of that factory type
+- Players gain pawns and resourcesbased on what places they have played on the board
+- For each worker on a factory, roll to see how many resources the worker returns with.
 
 **Mechanaztion (Actions)**
 Each player takes one action in order around the table until they choose to no longer take an action, or they are unable to take an action.
