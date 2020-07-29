@@ -53,8 +53,10 @@ Each season has three phases
 
 ## MECHINATION ACTIONS
 - Available actions depend on the lodge, actors, pawns, buildings and cards.
-- Draw:  Spend an influence to draw a card from the deck, or spend two influence to draw a specific card from their own secrets.
-- Level Up:  Spend the cost to raise the rank of their grand master.  This makes them harder to assasinate and more powerful in the endgame .
+
+- **Draw**:  Spend an influence to draw a card from the deck, or spend two influence to draw a specific card from their own secrets.
+
+- **Level Up**:  Spend the cost to raise the rank of their grand master.  This makes them harder to assasinate and more powerful in the endgame .
 
 - **Hire Pawns**
   - Pawns can be added to a player's board for the cost specified.  You can hire as many pawns as you can afford to hire with one action.
@@ -97,17 +99,7 @@ Each season has three phases
 - Check if any secret plot has been unleashed
 - Advance the astral signs
 
-# SCORING
-Here's a summary of all of the ways to gain power (victory points).
-- Building buildings on the board (see value on board)
-- Tapping powers of specific actors
-- During Resolution:
-  - 1 Power for each district that you control
-- During Final Resolution:
-  - Based on power scoring on your secret lodge and the cards you have in your conspiracy
-  - Based on if and how you unleash your secret plot
-
-  ## RESOLUTION
+## SCORING
 - Scoring during a standard resolution
   - the player with the most powerful grand master gains 1 VP
   - the player with the most buildings in each district gains 1 VP per district

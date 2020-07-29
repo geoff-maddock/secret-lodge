@@ -284,44 +284,44 @@ Earn any income, resources or energy based on conspiracy.  This happens all at o
 - Players gain pawns and resourcesbased on what places they have played on the board
 - For each worker on a factory, roll to see how many resources the worker returns with.
 
-**Mechanaztion (Actions)**
+**Mechanation (Actions)**
 Each player takes one action in order around the table until they choose to no longer take an action, or they are unable to take an action.
 - Player can:
-  - Draw:  Spend an influence to draw a card from the deck, or spend two influence to draw a specific card from their own secrets.
-  - Level Up:  Spend the cost to raise the rank of their grand master.  This makes them harder to assasinate and more powerful in the endgame scoring (see secret society card)
-  - Plan a building:  Spend the cost to add a building token to your lodge board.
-  - Hire:  Spend the cost to hire a new pawn to your lodge board
-- Place a building.  
+  - **Draw Card**:  Spend an influence to draw a card from the deck, or spend two influence to draw a specific card from their own secrets.
+  - **Level Up**:  Spend the cost to raise the rank of their grand master.  This makes them harder to assasinate and more powerful in the endgame scoring (see secret society card)
+  - **Plan a building**:  Spend the cost to add a building token to your lodge board.
+  - **Hire Pawn**:  Spend the cost to hire a new pawn to your lodge board
+- **Place a building.**
   - You can place a building in a district IF you share one trait with the aldarman, spend one influence or one secret.
   - You most pay the building tax in coins.  The outermost is 0, the next is 1, and the inner is 2.   If you are building next to an opponant, you must pay to them.
   - You have an existing building or pawn in the burrough.
-- Play pawns.
+- **Play pawns**.
   - In order to play a pawn on a space, you must have the appropriate building in the same district as a lodge or hall.
-- Play a worker on a:
+- **Play a worker on a:**
   - Factory: As long as your lodge has adequate favor, place a worker in the next open space in the factory.  Gain one resource.  
       If the worker remains there until the next season, you will collect additional resources.
   - Lodge or hall:  To make them available to cast votes.
   - Market: To trade your resources for coins at the going rate.
-- Play a tough on a:
+- **Play a tough on a:**
   - Factory: To intimidate workers from another lodge.  No more can be added unless the tough is removed.
   - Lodge: To intimidate members of the lodge.  No workers can vote there unless the tough is removed.
   - Actor: To intimade the actor.  They cannot use their special ability unless the tough is removed.
       - If three toughs are put on an actor, they have been assasinated and go into the discard pile.  The tough's lodge gains power. 
-- Play an investigator on a:
+- **Play an investigator on a:**
   - Actor:  To investigate the actor.  Draw a card from the deck and add it to your secret pile.
   - Factory: To investigate the factory.  Reduce the favor of one opponant by one.
   - Lodge: To investigate the lodge.  Look at their top secret.  Play two investigators to make a lodge discard a secret.
-- Play an occultist:
+- **Play an occultist:**
   - On the astral board:  On any FREE space.  The lodge gains that trait effectively.
   - ALT Gain energy relative to the players level of power with the astral trait.
   - ALT Gain VP for each occultist on the astral board equal to their position.  Only one occultist can be in the center space (3).
   - Cost to advance the occultist is 1 energy per level (1 for 1, 2 for 2, 3 for 3)
-  - 
-- Play a card:
+
+- **Play a card:**
   - Pay the cost on the card and then add to your conspiracy or resolve it's effect.
-- Activate a card:
+- **Activate a card:**
   - A card in your conspiracy can be activated by tapping it.  Pay any cost and resolve the related action.
-- Unfurl your secret plot:
+- **Reveal your secret plot:**
   - Reveal the plot and pay the base cost.  Add any additional optional costs to fuel it to gain more power.
   - Each player gets one additonal action, and then the final hour is resolved.
 
