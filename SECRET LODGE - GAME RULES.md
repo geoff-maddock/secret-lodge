@@ -207,15 +207,16 @@ Produced on a chemist space by placing a worker on the space.  Additional phlogi
 #### Cards
 The deck of cards represent the cast of potential characters, items and plots points that can become part of your conspiracy.  
 
-The **draw pile** is referred to as the **cast**, your hand the conspiracy, and individual cards as actors, artifacts, locations, gambits, boons or conditions.
+The **draw pile** is referred to as the **cast**, your hand the conspiracy, and individual cards as actors, artifacts, locations, gambits, boons or conditions.  This is the main deck of cards that you can draw from/
 
-This is the main deck of cards that you can draw from
+Types of cards in the deck include:
 		- **Actors** that enter your conspiracy (32)
 		- **Artifacts** that can be added to secrets or played during specific phases, or added to a lodge to be used by any actor (8)
     - **Locations** that can be added to the board and pawns can be played there to activate their benefits
 
 Each actor has one or more associated trades, astral signs and special powers.  
-They also have a base base influence (adds), constitution (toughs to kill) and aura (improvement of astral track). 
+They also have a base base strength (toughs to kill), guile (ability to improve tasks), alignment (bonus for electability)
+
 Lastly, there is a cost to bring them into play.
 
 The player hand is referred to as your **conspiracy** and you must pay to play them into your **cadre**.
@@ -355,6 +356,11 @@ When the first secret lodge unfurls their conspiracy, or after the end of six se
 - Which player goes first?
 - Playing resource generation pieces onto board
 - Spending resources to draw and play cards
+- Cards
+  - Drawing cards from a deck - costs influence?
+  - Drawing cards from secrets - costs actions/influence/resources?
+  - Playing cards from hand - costs influence or coins
+  - Activating cards in cadre - tapping or paying resources
 - Controlling areas of the board to activate card abilities
 - Electing your actors to have control over districts
 
@@ -378,6 +384,51 @@ Roll for actions:
 For most rolls, use the neutral dice.
 If your grand master is in favor or disfavor, roll the appropriate dice.
 You can spend energy to improve one die to a gambit die.
+
+### Cards
+The types of cards in the game include:
+
+**Actors**
+These represent people who are members of your lodge and are powerful individuals in your conspiracy.  
+They are the most common cards in the deck and are extremely important to gameplay.
+
+**Artifacts** 
+Special items that can grant you incredible extra abilities.  Can only be used by an actor with a matching type or name.
+
+**Gambit**
+These are goals that score you additional power / victory points when achieved.
+
+**Location**
+These cards, once played, become additional locations that a player can activate and place pawns.
+
+**Boon**
+These are special additional skills that can be used one time or as reoccurring skill.
+
+**Condition**
+These are special conditions that can be played on a district and remain until removed.
+
+**Secret Society**
+These represent secret societies a player can be secretly a member of.  They reflect what is required to gain power in the endgame.
+
+**Plot**
+These are secret plots the lodges can work towards to gain power in the endgame.
+
+**Law**
+These are laws that aldermen can select for a district if they win election.
+
+
+
+The layout of cards is as follows:
+Upper left hand is a letter abbreviation for the type of card ex. (A) Actor
+Top middle is the name of the card.
+Upper right is the card #.
+Left below the abbreviation is the cost.
+The middle of the card is artwork representing the card.
+Below that are the traits of the card, usually trades, astral signs or lodges.
+Below that is the primary ability of the card.
+Below that are the secondary abilities of the card.
+In italics is a flavor text description of the card
+
 
 ### Guilds / Trades
 Butchers (food)
