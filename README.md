@@ -12,3 +12,5 @@ See the **[GAME RULES](SECRET%20LODGE%20-%20GAME%20RULES.md)** for any questions
 See the **[QUICK SETUP](SECRET%20LODGE%20-%20Quick%20Setup.md)** for stripped down set of rules to get started playing.
 
 See the **[CHEAT SHEET](SECRET%20LODGE%20-%20Cheat%20Sheet.md)** for a very brief checklist of rules.
+
+[Game Data Spreadsheet](https://docs.google.com/spreadsheets/d/1FbHg03Pj0tRJIfP-dGqlwPflYK61CEHONHpxBpzfkQk/edit?usp=sharing)
