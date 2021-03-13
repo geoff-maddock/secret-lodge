@@ -1,7 +1,7 @@
 # SECRET LODGE 
 
 ## RULES VERSION
-**Complete Game Rules** - v.0.6 - DEVELOP 
+**Complete Game Rules** - v.0.5 - DEVELOP 
 
 This is the current detailed set of rules being used to playtest.
 
@@ -19,29 +19,28 @@ Each lodge will use its actors and pawns to gain resources and influence in orde
 - 2-6 players
 - 60 - 120 mins (no reference)
 - setup involves each player taking a lodge board and following the setup on that board, drawing their starting hand, secret society and plot
-- play takes place over 6 seasons
-- each season has three phases
-  - production - resources and income are awarded based on the state of your lodge
-  - machinations - players take actions round robin until all players have passed
-  - resolution - power of lodges increases, actors untap and secret plots can be unleashed
-- the reaches the final hour when a secret lodge successfully unfurls it's secret plot or after the sixth season ends
-- after the final hour, each lodge's power is totalled and the most powerful lodge standing wins
+- play takes place over 6+ seasons
+- each season has phases
+  - elections - new aldermen are elected for each district
+  - income - income is awarded based on the state of your lodge
+  - the chase - players take actions round robin until all players have passed
+  - the final hour - once a plot is unleashed, a special final phase takes place
+- after the final hour, final power is totalled and the most powerful lodge standing wins
 
 ## GAME TERMS
-- **Season** - the game is divided into six seasons, which are the largest division of gameplay.
-Each season consists of three phases:
-	1. **Production** - earn resources based on starting state of your lodge
-	2. **Machination** - take actions with cards, actors and pawns
-	3. **Resolution** - unfurl plots, return workers, elect aldermen, advance astral chart
+- Season - the largest sequence of game actions, each season consists of three phases
+	1 Production - earn based on starting state of your lodge
+	2 Mechination - take actions with cards, actors and pawns
+	3 Resolution - unfurl plots, return workers, elect aldermen, advance astral chart
 - Phase - one of the three phases of each season that mark different sets of actions for players
-- Turn - a player action taken during the machination phase.  after a player takes one legal action, play continues clockwise unless otherwise specified 
+- Turn - a player action taken during a phase.  after a player takes one legal action, play continues clockwise unless otherwise specified 
 - Action - any of the legal plays available to a player on their turn, either through cards in their conspiracy, hand, pawns and are payed for via resources in their vault.
 - Lodge - each player's set of cards, board and pieces
 - Resources - one of the types of resources used in the game to pay for actions.  they include food, material, energy and resources and are tracked on each player's lodge board.
 - Vault - area of the lodge board where a player records the resources that have been earned
 - Hand - the cards that are held secretly in the players hand
 - Conspiracy - the players cards that are laid out in front of them that may take actions
-- Actor - a card that represents a person of power in the game that can be tapped for special abilities
+- Actors - any of a players specific cards that represent a person
 - Pawn - any of the small movable parts of the game that are not cards
 - Secrets - a face down set of cards placed in the secrets pile of their lodge.  a player can look through them, but not re-order them unless otherwise noted.
 
@@ -50,14 +49,13 @@ Each season consists of three phases:
 ### DICE
 Dice are used to add variable randomness to certain parts of the game, and are handled with wet erase dice created with different face sets
 In most cases, the standard die is rolled.  In a negative situation the disfavor die is rolled, in a favorable situation, the favor die is rolled.
-Faces | Type | Color
-------|------|------
-000 111 | Disfavor | Red
-011 112 | Standard | Blue
-001 122 | Neutral | Black
-111 222 | Favor | Green
-[ALT] 011 222 | Favor | Green
-000123 | Gambit | Purple
+**Faces - Type - Color**
+000 111 - Disfavor - Red
+011 112 - Standard - Blue
+001 122 - Neutral - Black
+111 222 - Favor - Green
+[ALT] 011 222 - Favor - Green
+000123 - Gambit - Purple
 
 ### BOARDS & LOCATIONS
 

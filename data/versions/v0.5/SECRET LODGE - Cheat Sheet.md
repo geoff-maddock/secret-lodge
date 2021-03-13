@@ -57,7 +57,7 @@ Each season has three phases that occurr in order:  **Consolidation
   - Lodge - 1 worker per lodge
   - Hall - 1 worker, 1 tough OR 1 coin per hall
   - Tower (Lyceum) - 1 investigator or 1 occultist per tower
-  - Salon - draw one card from the deck and place in hand or secrets or add one influence
+  - Salon - draw one card from the deck and place in secrets or add one influence
 
 ### Hire Pawns
   - Pawns can be added to a player's board for the cost specified.  You can hire as many pawns as you can afford to hire with one action.
