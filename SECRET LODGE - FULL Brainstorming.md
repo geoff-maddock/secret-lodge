@@ -44,54 +44,64 @@ Each season consists of three phases:
 - Actor - a card that represents a person of power in the game that can be tapped for special abilities
 - Pawn - any of the small movable parts of the game that are not cards
 - Secrets - a face down set of cards placed in the secrets pile of their lodge.  a player can look through them, but not re-order them unless otherwise noted.
-- Secret Society - each player has a behind-the-scenes secret society that controls their lodge.  This specifies special end-game scoring for the player
-- Secret Plot - this is the main goal of the secret society and when it can be activated, scores big power and ends the game.
 
 ## PARTS & BOARDS
 
 ### DICE
 Dice are used to add variable randomness to certain parts of the game, and are handled with wet erase dice created with different face sets
 In most cases, the standard die is rolled.  In a negative situation the disfavor die is rolled, in a favorable situation, the favor die is rolled.
+Standard Dice 00 11 22
+Favor Dice    11 12 22
 
 Faces | Type | Color
 ------|------|------
-Standard Dice | 00 11 22 | Black
-Favor Dice    | 11 12 22 | Green
-
+000 111 | Disfavor | Red
+011 112 | Standard | Blue
+001 122 | Neutral | Black
+111 222 | Favor | Green
+[ALT] 011 222 | Favor | Green
+000123 | Gambit | Purple
 
 ### BOARDS & LOCATIONS
 
 #### City Board
-The city board is where real-world action occurs in the game, and represents the the fictional steam-era "London" that is the game's setting.   The city is made up of **five different districts**: *North, East, South, West* and *Central*, and each contains **four borroughs** that in turn contain **seven hexagonal spaces**.   Around the outside of the city is the **power track** that keeps track of the overall power of each lodge in the city.  Each lodge has a pawn on the power track (basically "victory points" earned for different actions that increase the lodge's power). In the final hour, the secret societies clash, unleash their secret plots and only one is left standing.
+The city board is where real-world action occurs in the game, and represents the the fictional steam-era "London" that is the game's setting.   The city is made up of **five different districts**: *North, East, South, West* and *Central*, and each contains **four borroughs** that in turn contain **seven hexagonal spaces**.   Each cardinal district has a space for the currently elected **alderman**.  They set some rules for that district while they remain elected and a new election happens each season.  Around the outside of the city is the **power track** that keeps track of the overall power of each lodge in the city.  Each lodge has a pawn on the power track (basically "victory points" earned for different actions that increase the lodge's power). In the final hour, the secret societies clash, unleash their secret plots and only one is left standing.
 
 ##### How will locations / empty space play into the game? #####
-Building near the city center is more expensive, but the more you expand the more power you gain.   Building near your own places improves your influence.  Being the dominant lodge in a district gives you victory points.   Building apart allows you to effect more districts.   Building near an opponent allows them easier access to your secrets.   There are also ten (10) unique locations that can be added to the game based on cards that have their own related actions.    Museum, Chapel, Stables, Constable, Tavern, Morgue, Speakeasy, Brothel, Dungeon, Blackmarket.
+Building near the city center is more expensive, but trading goods for coin is more profitable.    Building near your own places improves your influence.  Being the dominant lodge in a district gives you victory points.   Building apart allows you to effect more districts.   Building near an opponent allows them easier access to your secrets.   There are also ten (10) unique locations that can be added to the game based on cards that have their own related actions.    Museum, Chapel, Stables, Constable, Tavern, Morgue, Speakeasy, Brothel, Dungeon, Blackmarket.
 
 #### Astral Track
-The astral track is a circular depiction of each of the eight astral signs and their state of favor or disfavor.  
-The spirit token points to the sigil that is currently in favor.   They spirit moves forward any time favor grants a success, or when a pawn visits the tower.
-Any actors who have a matching sign to the sign that is in favor are also said to be in favor.
+The astral track is a circular depiction of each of the astral sigils and their state of favor or disfavor/alignment.
+The two spirits indicate the current astral alignment and they move forward one or more positions per season.
+The white and black tokens indicate the sigils in favor or disfavor.
 Each lodge can perform rituals to increase their energy in any of the sigils.
-Different cards, lodges and secret societies gain extra benefit based on which sigil is in favor.
+Your lodge's astral signs depend on the grand master as well as any occult favors gained.
+
+[Ideas]
+- "Spirit" Tokens or pointers on this represent the current astral signs in favor [Y]
+- One of eight signs are either in favor, disfavor or neutral [Maybe]
+- They change with each season? [Y]
+- Different cards, lodges and secret societies gain extra benefit based on these [Y]
+- Occultists can influence these through actions [Y]
 
 #### Guild / Trade Factory boards 
 Each guild / trade has it's own board on the play area, as well as factory spaces on the play board.   Play begins with one factory in each district.
 
 Favor
-- Each lodge has a different level of favor with each guild.
 - Initially, each lodge places a token on the zero favor slot.
 - Favor determines how well your workers will produce at the particular trade.  
-- The favor number determines how many standard dice you can swap for favor dice during production.
+- The favor number determines how many dice you can swap for favor dice during production.
+- If a lodge falls into disfavor, any dice they roll during production will be disfavor / they cannot produce in that trade [idea]
 
-Lodges can gain favor with a guild by:
-- Playing an actor with the specified trade.
-- Building a new factory location by paying the cost on the guild board
+They can gain favor by:
+- Playing an actor with the specified trade (if they are removed, you lose the favor)
+- Building a new factory location by paying the git s on the guild board
 - Use the special ability of a card
 
 Placing  Workers
 - Players can place their workers in the factory to earn resources, which are earned in the production phase.
-- If you have no favor with the guild you can place workers, but not if you have disfavor
-- For each worker placed in the factory, one die is rolled, replacing one standard per favor, and the player collects that many of the specified resource
+- If you have no favor with the guild, you cannot place any workers into that trade.
+- For each worker placed in the factory, one die is rolled, plus one per favor, and the player collects that many of the specified resource
 
 
 #### Player Board / Lodge Board
