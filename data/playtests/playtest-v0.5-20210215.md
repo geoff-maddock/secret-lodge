@@ -76,6 +76,8 @@ Action Items:
     - Adjust cost based on relative strength - although keeping them balanced at first might be good
 
 - Revamp occult board rules
+    - [ALT] The astral favor token starts at a random position and moves each time a success role is made by one position 
+    - [ALT] If the favored sign matches that of the lodge's master, all rolls are done with favor dice.
     - Place an available occultist on a free space on the outer ring.  Cost is 1 energy (ether or orgone)
     - You can advance the occultist up the astral track by paying 2 or 3 energy
     - During resolution, you score victory points equal to the level of each occultist on a track that matches at least one actor in your lodge

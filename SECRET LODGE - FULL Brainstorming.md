@@ -18,8 +18,8 @@ Each lodge will use its actors and pawns to gain resources and influence in orde
 ## BASICS
 - 2-6 players
 - 60 - 120 mins (no reference)
-- setup involves each player taking a lodge board and following the setup on that board, drawing their starting hand, secret society and plot
-- play takes place over 6 seasons
+- Setup involves each player taking a lodge board and following the setup on that board, drawing their starting hand, secret society and plot.
+- Play takes place over 6 seasons, or until a game ending plot is revealed.
 - each season has three phases
   - production - resources and income are awarded based on the state of your lodge
   - machinations - players take actions round robin until all players have passed
