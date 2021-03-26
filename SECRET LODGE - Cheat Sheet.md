@@ -16,8 +16,7 @@ See the **[QUICK SETUP](SECRET%20LODGE%20-%20Quick%20Setup.md)** for stripped do
 ### PLAYER SETUP
 - Each player selects a lodge board
 - Each player is dealt five cards.
-- [ALT]
-  - Each player is dealt three cards, and remaining two cards per player are drafted.
+- [ALT] Each player is dealt three cards, and remaining two cards per player are drafted.
 - Each player selects a grand master for their lodge and places it in the slot
 - Each player randomly selects a secret society card and a secret plot card
     - Only they may look at the cards, and in general they will be placed face-down in front of the player until they need to be revealed as per the card instrutions.  Players can look at their cards at any time as these cards specify some goals that score points.
@@ -28,131 +27,66 @@ See the **[QUICK SETUP](SECRET%20LODGE%20-%20Quick%20Setup.md)** for stripped do
 - The first season of the game begins
 
 ## SEASONS
-Each season has three phases that occurr in order:  **Consolidation
+Each season has four phases that happen in order:  **Recruitment**, **Machinations**, **Production**, **Resolution**.
 
-# CONSOLIDATION
-- All players actions occurr at the same time.
-- Players gain resources based on the state of their board and the city.
-- Actors untap
+## RECRUITMENT
+Gain workers based on the state of buildings and workers on your board.  This happens all at once.
+**Lodge**:  1 worker 
+**Hall**: 1 worker, 1 tough or 1 coin 
+**Tower**: 1 investigator or 1 occultist
+**Salon**: Draw 1 card from deck into hand or secrets or add 1 influence
 
-# MECHINATION
-- Each player takes one available action on their turn, then player to their right and so on, until all players have passed, unless an ability cirucumvents this.
-- Available actions depend on the lodge, actors, pawns, buildings and cards.
-- All actions must be stated aloud and the applicable rule or text allowing the action must be stated.
-- The first player to pass has the first option to place actors up for election, and for every time their seat comes up and play still continues, they recieve a pawn vote from the supply.  (Early campaigners build support)
-
-# RESOLUTION
-- All players actions occur at once, and in this order.
-- Elect new aldermen in each district, and winning player select new laws;  if a non-player actor is elected, retain the last law.
-- [ALT] Resources are collected from trade guild factories.
-- Check if any secret plot has been unleashed
-- Advance the astral signs
-
-# ACTIONS
-
-## CONSOLIDATION ACTIONS
-- Available actions depend on the lodge, actors, pawns, buildings and cards.
-
-### Gain resources based on what buildings you have in the city
-  - Lodge - 1 worker per lodge
-  - Hall - 1 worker, 1 tough OR 1 coin per hall
-  - Tower (Lyceum) - 1 investigator or 1 occultist per tower
-  - Salon - draw one card from the deck and place in hand or secrets or add one influence
-
-### Hire Pawns
-  - Pawns can be added to a player's board for the cost specified.  You can hire as many pawns as you can afford to hire with one action.
-  - Pawns include workers, toughs, invistigators, occultists
-
-### Pawns that can return, return to your lodge (most are discarded)
-### Actors untap
-
-## MECHANATION ACTIONS
-
-### Draw:  Spend an influence to draw a card from the deck, or spend two influence to draw a specific card from their own secrets.
-### Level Up:  Spend the cost to raise the rank of their grand master.  This makes them harder to assasinate and more powerful in the endgame 
-
-### Lodge Actions
-  - Draw the top card from the deck - 1 influence
-  - Draw a card from your secrets - 2 influence
-  - Steal a secret from another player (top secret) - 2 orgone
-  - Reveal top opponant secret - 1 investigator
-  - Discard top opponant secret - 2 investigators
-  - Level up grandmaster - 1 influence or 2 coins + 1 ether / level
-  - Hire a pawn - spend the cost to add a pawn to your lodge
-
-### Trade resources
-  - place a worker on the market space
-  - trade resources for coins at the going rate in the district
-  - you can trade in any district that you have a lodge
-
-### Play Pawns
-  - You can play a pawn from your conspiracy board to any location.  If there is an associated cost, pay that, although there may not be.  
-    - Gain any relevant reward 
-    - Pawns are placed on locations based on available slots and their type:
-      - Workers can be placed in open factory slots, the market, or an actor
-      - Occultists can be placed in the outer ring of the astral circle
-
-- **Add a building**
-  - To add an additional building, pay the associated cost on your player board
-  - Add another building token to the additional slots on your board.
-
-- **Build a Building**
-  You can build a building if you have one available.
-  You pay the cost to the left of the building in order to build.
-  If you have extra building spaces, you can add more buildings to your pool by paying the additional cost.
-  If there is a base reward for building the building, receive that reward.
-
-- **Play Pawns**
-  - You can play a pawn from your conspiracy board to any location.  If there is an associated cost, pay that, although there may not be.      - Gain any relevant reward 
-    - *Play a Worker*
-      - Place a worker on a factory space - pay the cost for the open space
-      - Place worker on market to trade
-      - Place a worker on a lodge grand master to vote for that lodge for aldarman
-    - *Play a Tough:*
-      - Factory: To intimidate workers from another lodge.  No more can be added unless the tough is removed.  No cost
-      - Lodge: To intimidate members of the lodge.  No workers can vote there unless the tough is removed.
-      - Actor: To intimade the actor.  They cannot use their special ability unless the tough is removed.
-          - If three toughs are put on an actor, they have been assasinated and go into the discard pile.  The tough's lodge gains power. 
-    - *Play an Investigator:*
-      - Actor:  To investigate the actor.  Draw a card from the deck and add it to your secret pile.
-      - Factory: To investigate the factory.  Reduce the favor of one opponant by one.
-      - Lodge: To investigate the lodge.  Look at their top secret.  Play two investigators to make a lodge discard a secret.
-    - *Play an Occultist:*
-      - On the astral board:  On any space.  The lodge gains that trait effectively.
-      - Occultists are not discarded between turns.
-      - Gain energy relative to the players level of power with the astral trait.  
-
-- **Tap an Actor**
-  - You can activate a power on an actor by tapping (turning sideways) and then gaining the relevant reward.  Tapped actors cannot be re-tapped unless another ability allows this.
-
-- **Play a card**
-  - You can play a card from your hand by paying the cost.  You then place it into your conspiracy, face up in front of you.  If there are any "on play" rewards, gain them.
-
-- **Reveal your secret plot**
+**Machinations (Actions)**
+Each player takes one action in order around the table until they choose to pass, or they are unable to take an action.
+Actions include:  Build Building, Draw Cards, Play Cards, Tap Cards, Add Secrets, Place Pawns, Trade Resources, Improve Master 
+- Player can:
+  - **Draw Card**:  Spend an influence to draw a card from the deck, or spend two influence to draw a specific card from their own secrets (search through)
+  - **Play a card:**: Pay the cost on the card and then add to your conspiracy and resolve any activation effect.
+  - **Add Secret**: Play a card from your hand into your secrets at no cost.
+  - **Activate a card:**: A card in your conspiracy can be activated by tapping (turning) it.  Pay any cost and resolve the related action.
+  - **Level Up**:  Spend the cost to raise the rank of their grand master.  Increases their toughness and power.  Pay 1 influence or 2 coin plus 2 orgone per level.
+  - **Trade Resources**:  Trade resources at the current rate for coins.  You can pay one coin for one of any resource.
+  - **Hold Pawns**:  Place a pawn in your holding area.  You can keep as many pawns as you have lodges in play.  The pawns can be played on future turns.
+- **Place a building.**
+  - You can build in any district where there is an available hex.  The cost to build depends on the type of building and the location in the city.
+  - You pay the cost of the building to the bank.  If you are building next to another player's building, you must pay them a coin.
+  - Building in the **outermost** burrough costs nothing extra, in the **middle** burroughs you must pay an additional wood, and in the **inner** burrough, you must pay an additional iron.
+- **Play pawns**.
+  - Playing a pawn might be free or have an associated cost depending on where it's being played.
+- **Play a worker on a:**
+  - Factory: Pay the cost displayed on the open shift space on the factory and place your worker in the slot.  You will earn resources during production.
+- **Play a tough on a:**
+  - Factory: To intimidate workers from another lodge.  Pay the cost to block other workers from the available shift.  
+  - Pawn To *Squeeze*:  1D / Tough + 1D / 2 Coins spent.  Reduce strength by hits.  If down to 0, move to your holding area.
+  - Actor To *Intimidate*: 1D / Tough + 1D / 2 Coins spent.  Reduce strength by hits.  If down to 0, tap, if negative, discard.
+- **Play an investigator on a:**
+  - Lodge: To *Investigate* the lodge.  1D / Investigator + 1D / 1 Ether spent.  1 Hit: Reveal Secret.  2 Hit: Discard Secret.  3 Hit:  Steal Secret
+  - Actor:  To *Blackmail* the actor.  1D / Investigator.  Reduce guile by hits.  If 0, tap, if negative, discard.  [ALT] Discard secret with matching initials to the actor and discard the actor.
+- **Play an occultist on:**
+  - On the astral board: To perform *Astral Projection*.  Gain the trait for the lodge.  Lodge gains additional power during resolution.
+  - Next level of board: To increase *Astral Power*. Move up the sigil track on the astral board by paying the cost of one energy (ether or orgone) per level.
+  - Actor:  To *Mind Control* the actor. 1D / Occultist + 1D / Orgone spent.  Exceed the number of mana on actor to control them (tap and use power).
+- **Play pawn on own buildings:**
+  - Lodge:  Gain +1 influence
+  - Hall:  Gain +1 power
+  - Tower: Gain +1 coin
+  - Salon: Draw a card from deck into secrets 
+- **Reveal your secret plot:**
   - Reveal the plot and pay the base cost.  Add any additional optional costs to fuel it to gain more power.
-  - Each player gets one additonal action, and then the final hour is resolved.
+  - Once the plot is revealed, end-game begins.  Each player gets one additonal action, and then the final hour is resolved.
 
-- **Pass your turn**
-  - When you have no other actions you wish to take during this phase, announce that you are passing.  If you are the first to pass, take the first player token.
-  - You may place one of your actors up for election in any district where you have a hall.  Place one worker pawn there to represent the initial vote, and each additional round that play continues, place one more worker on your actor. 
+**Production**
+Gain resources based on the state of workers on Factory boards.  Roll one die for each worker.
+For each favor in the trade, replace one standard die with a favor die.  Gain resources based on total rolled.
 
-  **Scoring VP**
-  - Scoring VP may be the side effect of different actions and should be denoted on cards or in the rules.
-  - In general, removing an actor from play immediately scores you 1VP, whether assasinating them, discarding them or moving them into secrets
-
-## RESOLUTION
-- All actions occur at once 
-- Elect new aldermen in each district, and winning player select new laws;  if a non-player actor is elected, retain the last law.
-- Check if any secret plot has been unleashed
-- Advance the astral signs
-
-### SCORING
-- Scoring during a standard resolution
-  - the player with the most powerful grand master gains 1 VP
-  - the player with the most buildings in each district gains 1 VP per district
-  - 1 VP per level of each occultist on the astral board
-  - 1 VP per aldarmen elected
-  - 1 VP per grandmaster level
-- During Final Resolution:
-  - Based on power scoring on your secret lodge and the cards you have in your conspiracy
-  - Based on if and how you unleash your secret plot
+**Resolution (Season's End)**
+Score power based on the state of the city and your lodge. 
+Player gets +1 power per actor in lodge.
+Player gets +1 power per level of occultist on astral board  
+Player gets power based on influence.  0-4: 0, 5-9: 1, 10: 2
+Player gets +1 power per grandmaster level
+Players get +1 power for each burrough where they have a presence 
+Player with the most buildings in each district gains +1 power.
+Untap any tapped actors.  
+Return any used pawns.
+Resolve any declared secret plots.   If six rounds are complete, enter end game.

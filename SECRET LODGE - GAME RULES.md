@@ -301,7 +301,7 @@ Gain workers based on the state of buildings and workers on your board.  This ha
 **Tower**: 1 investigator or 1 occultist
 **Salon**: Draw 1 card from deck into hand or secrets or add 1 influence
 
-**Machanations (Actions)**
+**Machinations (Actions)**
 Each player takes one action in order around the table until they choose to pass, or they are unable to take an action.
 Actions include:  Build Building, Draw Cards, Play Cards, Tap Cards, Add Secrets, Place Pawns, Trade Resources, Improve Master 
 - Player can:
@@ -355,7 +355,6 @@ Player with the most buildings in each district gains +1 power.
 Untap any tapped actors.  
 Return any used pawns.
 Resolve any declared secret plots.   If six rounds are complete, enter end game.
-
 
 ### How does the game end?
 When the first secret lodge unfurls their conspiracy, or after the end of six seasons, the player with the most power wins.
@@ -530,145 +529,13 @@ Occultist - "tall"
 ? - Revisit these names
 \* - Proposed feature only
 
-## Brainstorming Notes
-Each conspiracy must gather resources, draw actors into their conspiracy and put them into places of power to enact their secret plots.
-
-Questions/Options
-Are players un-named conspiracies?  
-Are they lodges that are the "front" for a conspiracy?  
-The lodge has influence in different guilds, trades, districts, etc?
-
-Idea 
-Based on each district and what factories are there, different resources are produced
-Then as actions, based on bidding of player actors with levels of influence, they can collect the resources produced in that district OR neighborhood.  Special cards will give other players the ability to swoop in and collect resources, but may make it harder for them to take them in the future
-
-Game #idea board game RPG that has session and campain elements with "innocent" npc types, guilds who control their lives, then secret societies (think rosecucians, masons, satansist, enlightened) who work on yet another . everybody has goals - collect timber and trade for food, rough up an occultist, investigate a factory - but also a plot that your secret society is working towards.
-
-Cards can be added to secrets pile and removed as items.  Remaining cards help cabal
-points, so that even mundane players an win, a guild can win, a conspiracy can win OR everybody might die in the balance and everybody loses
-
-six rounds
-unlimited turns using engine building
-plus drafted cards that have multiple meanings
-secret objectives
-guild objectives and actions
-commerce
-magic
-plague, famine, invaders
-relics
-
-Tasks are objectives for players.  If they succeed, they improve their standing? 
-Or get an item into their secrets deck?   Characters have tasks built in?  Or there is a task?
-Draw a task and if you can complete it, you get the reward.  If you can't, you must spend something to keep it or discard with an energy.
-
-Plots: if unleashed it becomes the final turn and a grand battle occurs as every player gets one turn to act and resolve their conspiracy.  Only players with plots can take turns in the grant battle
-
-Use magic, ingots, flesh and wool to build a secret golem or champion for your conspiracy, when activated has vast power and influence and victory points.
-
-Resources: ingots, wool, gold, orgone, aether, bread, glass, brick, timber
-
-Your conspiracy/chars can take one of several actions.  Manage work, move pawns, enter politics, build plot, build factory, rally influence, bolster lodge?
-
-certain rituals can change the alignment of the planets to create constellations that are helpful for certain lodges or for certain plots
-
-can claim things from the guild based on your ranking in the guild/lodge?
-
-**Resource types**
-Pawns - represent small people and can be placed on the lodge board, city board or actor cards
-Coin - represents wealth
-energy
-material
-occult
-artifact
-food
-
-Lodge (your mat?), Guild (on board location?), Mill (on board production?), Cohort (your active characters in play), Conspiracy (your hand?), Astral Signs (sigils that are associated with different guilds and secret societies)
-
-when you spend the influence of a lodge, if you do something positive, it returns to the pool.  if you do something negative or selfish, it is lost / the lodges favor goes down
-
-Two sided building tokens, one for active o e for shut down
-
-Toughs count for two workers
-
-Secret societies: rod of hermes
-
- - [ ] Suspicion cards You can use a power from your secrets deck but it lets other players unfurl your conspiracy.
-
-Suspicion cards You can use a power from your secrets deck but it lets other players unfurl your conspiracy.
-
-#### Brainstorming & Early ideas
-- Lodges are public societes with affiliates to trades and cabals
-- Trades relate to the players and the board
-- Cabals are secret organizations of power
-- Token types:  resources, workers, occult
-- Resources are defined by the location on the board and can be collected by workers, lodges, politicans or other card/actions
-- Playing an actors card into your secrets pile allows you to benefit if they come to power, or as a reaction by an opponants investigator
-- You play to advance your lodge by bringing actors into your cabal
-- At the end of each act/season (6 total) there is an election of aldermen for each district
-- Each player has tokens or cards it can use to influence an election or other players votes
-- Play deck contains actors and items
-- Cabal deck contains cards that match each cabal (oh?)
-- Lodge deck contains cards that match each lodge (oh?)
-- Trial deck contains tasks that the player can accomplish to then alter the favored signs or recieve another benefit
-- Hovels can be place from a collective pool at the cost of two coins
-- Your henchmen can be placed for the cost on your playmat, modified by actors or the state of the favors
-- At the start of an act, you gain favor based on each alderman, coin or food based on each trade workshop and influence or actions from each actor
-- Every card has some sigils on it which can be used to build power for a cabal
-- Actor types?
-	- Butcher +2 food
-	- Baker +1 food +1 home
-	- Candlestick mater +1 candle
-	- Investigator +1 move
-	- Weaver +1 draw
-	- Mason +1 home
-	- Tough, laborer, investigator, occultist
-	- Hovel, industry, lodge
-- Colors match cabal card and pieces
-- Accrue influence by building or moving into new areas, cards and actions,  Spending influence can change elections and standing of lodge
-- Lodge can spend their standing for various cards like taxation, raids, and assasinations
-- Cards put into play, either items or people can be brought into your cabal and based on what people buy, you may deduce their conspiracy
-- Cubes for differente types of workers
-- There's an occult phase of each roud where you can use your occult powers to align the planets and sigils to benefit your next turn.  6 planets, 6 sigils
-- Game board - circle of sigils.  Along those lines each lodge and player has a position.  Or each season where a governor is elected and dependingo n what lodges and secret socites the governers are part of, that effects your victory points
-- Victory points depend on a number of factors.  Within 6 acts you will create the most effective cabal, industry, occult, power, actors and plots can give you points
-- Technology / science vs occult vs politics / humanism
-- Cards have good son them which give you money, or the goods can be used to pay for things
-- Look up mancala mechanic
-- Trajan circle mechanic with slots matching occult items with specific requirements.  You are putting actions into those to get them
-- Politicans set demand?  Or the people set demands, and each player can win favor by producing what is in demand (a setting for each card that is revealed each round
-- Two types of story cards - plots and rituals.  Plots require an end of act state, rituals require a sacrifice
-- Political parties?  Can be come members or create new ones.  If somebody is winning and they join another's party, they can win overall by boosting their candidate into the lead or assasinating the other candidate
-- Form of government is another layer?  Monarchy, Duarchy, Trinarchy, Council, District Republic
-- Secrets can be gathered and used to bribe aldermen or power your plot, or unfurl another players plot
-- Actors have lodge, cabal and astral signs that effect their power
-They may also both have a specific ability, a physical and astral strength, and a cost?
-Each lodge has things they can build with resources.
-As they build new things, they get something in return, but building more has a cost?
-Comments:
-Geoff Maddock: Candlestick maker +1 candle +1 discard and draw
-Geoff Maddock: Discarding one card into the secrets pile costs one influence
-
-### DICE
-Dice are used to add variable randomness to certain parts of the game, and are handled with wet erase dice created with different face sets
-In most cases, the standard die is rolled.  In a negative situation the disfavor die is rolled, in a favorable situation, the favor die is rolled.
-Standard Dice 00 11 22
-Favor Dice    11 12 22
-
-Faces | Type | Color
-------|------|------
-000 111 | Disfavor | Red
-011 112 | Standard | Blue
-001 122 | Neutral | Black
-111 222 | Favor | Green
-[ALT] 011 222 | Favor | Green
-000123 | Gambit | Purple
-
 ## Play Test versions
 0.1.21 - ALPHA - Working rules set
 0.5.0 - First Playtest Rules set
 0.6.0 - Revised Playtest Rules - much more playable
 
 ## To Do
+2021.02-1-v0.5
 - Clean up brainstorming
   - Core - elements that will be in the game
   - Likely - elements that likely will be in the game
